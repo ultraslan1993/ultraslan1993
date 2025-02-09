@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN 1 FEED (720P) |D
+http://192.168.1.60:8080/Rokkr.php?ID=1363827223bfb9ce212a35
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN 1 SD (360P) |D
+http://192.168.1.60:8080/Rokkr.php?ID=369233724157db9171292d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN 1 SD (480P) |D
+http://192.168.1.60:8080/Rokkr.php?ID=29192293467a702078a320
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 (720P) |D
+http://192.168.1.60:8080/Rokkr.php?ID=3840475653c037787f60c1
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 (720PFEED) |D
+http://192.168.1.60:8080/Rokkr.php?ID=22330664333caa81af60f4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 + |D
+http://192.168.1.60:8080/Rokkr.php?ID=2576216897af13e7fc20f6
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 50 FPS |D
+http://192.168.1.60:8080/Rokkr.php?ID=135242105304203090c5eb
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 [LIVE DURING EVENTS ONLY] |H
+http://192.168.1.60:8080/Rokkr.php?ID=342898470344f288f4e21d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 H265 |D
+http://192.168.1.60:8080/Rokkr.php?ID=2403425031873a4300d1e4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 HD (TURKEY) |D
+http://192.168.1.60:8080/Rokkr.php?ID=59349386041895065b11b
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=662179620cc6b870c0645
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 1 |E
+http://192.168.1.60:8080/Rokkr.php?ID=300113394c54d508825c9
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 2 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=2851539143bb2418e578c4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 2 SD |D
+http://192.168.1.60:8080/Rokkr.php?ID=32363629116245de479e42
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 2 UHD |D
+http://192.168.1.60:8080/Rokkr.php?ID=3694662475655ffcba6b47
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 2 |E
+http://192.168.1.60:8080/Rokkr.php?ID=1447241506e73ce6673555
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 2 |H
+http://192.168.1.60:8080/Rokkr.php?ID=2509466191364b24d9e68d
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 3 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=170059580159375d127a60
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 3 SD |D
+http://192.168.1.60:8080/Rokkr.php?ID=206371329325c58dc31a0
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 3 UHD |D
+http://192.168.1.60:8080/Rokkr.php?ID=3410167560fd7b2f4f46bb
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 3 |E
+http://192.168.1.60:8080/Rokkr.php?ID=1797459602c6c3fb3600c4
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 3 |H
+http://192.168.1.60:8080/Rokkr.php?ID=2834514943a84c5789691e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 4 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=1872232768cd2adbe8c526
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 4 UHD |D
+http://192.168.1.60:8080/Rokkr.php?ID=29382683537beedbbc0b4c
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 4 |E
+http://192.168.1.60:8080/Rokkr.php?ID=36409063706417d2f9791e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 4 |H
+http://192.168.1.60:8080/Rokkr.php?ID=4500766555cf1c9151bc9
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 4K FEED(KUTU) |D
+http://192.168.1.60:8080/Rokkr.php?ID=2671058892459103de77a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 4K FEED(UYDU) |D
+http://192.168.1.60:8080/Rokkr.php?ID=1536730627e370a91a8c3f
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 5 FHD |D
+http://192.168.1.60:8080/Rokkr.php?ID=40003156012b9398992089
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 5 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=2737963486d82ec50ad992
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 5 |E
+http://192.168.1.60:8080/Rokkr.php?ID=3831757618f22bcaccfe92
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 720P FEED |D
+http://192.168.1.60:8080/Rokkr.php?ID=4994854974df09169ea50
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS 8K FEED |D
+http://192.168.1.60:8080/Rokkr.php?ID=211346239843ddede8fabc
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS FEED (OZEL FEED YAYIN) |D
+http://192.168.1.60:8080/Rokkr.php?ID=145369231423771b595289
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 1 FHD |D
+http://192.168.1.60:8080/Rokkr.php?ID=40714747432322747e9afb
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 1 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=22528142359585cf95ab9
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 1 |E
+http://192.168.1.60:8080/Rokkr.php?ID=1221587067a77605367b54
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 1 |H
+http://192.168.1.60:8080/Rokkr.php?ID=2832430535ba4408df286a
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 2 FHD |D
+http://192.168.1.60:8080/Rokkr.php?ID=34079362428b440cbbc0b2
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 2 HD |D
+http://192.168.1.60:8080/Rokkr.php?ID=22126598204d5364767dae
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 2 |E
+http://192.168.1.60:8080/Rokkr.php?ID=258968235a0f1c2b7461e
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BEIN SPORTS MAX 2 |H
+http://192.168.1.60:8080/Rokkr.php?ID=401729512702b976917943
+
