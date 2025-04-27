@@ -1,0 +1,545 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="3428940222" tvg-name="PT | SPORT TV 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3428940222b4a8fac1b549
+#EXTINF:-1 tvg-id="3846016605" tvg-name="PT | CM TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CM TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3846016605b4a8fac1b549
+#EXTINF:-1 tvg-id="2647788125" tvg-name="PT | TVI (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2647788125b4a8fac1b549
+#EXTINF:-1 tvg-id="805844173" tvg-name="PT | CM TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CM TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=805844173b4a8fac1b549
+#EXTINF:-1 tvg-id="3213786206" tvg-name="PT | RTP 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3213786206b4a8fac1b549
+#EXTINF:-1 tvg-id="3099098765" tvg-name="PT | SIC HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3099098765b4a8fac1b549
+#EXTINF:-1 tvg-id="3762658364" tvg-name="PT | SIC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3762658364b4a8fac1b549
+#EXTINF:-1 tvg-id="3966581533" tvg-name="PT | SPORT TV 1 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 1 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3966581533b4a8fac1b549
+#EXTINF:-1 tvg-id="1394401047" tvg-name="PT | RTP 1 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP 1 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1394401047b4a8fac1b549
+#EXTINF:-1 tvg-id="2112830810" tvg-name="PT | SPORT TV 1 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 1 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2112830810b4a8fac1b549
+#EXTINF:-1 tvg-id="3310235454" tvg-name="PT | RTP 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3310235454b4a8fac1b549
+#EXTINF:-1 tvg-id="3101553820" tvg-name="PT | TVI HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3101553820b4a8fac1b549
+#EXTINF:-1 tvg-id="1438628906" tvg-name="PT | SPORT TV 1 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 1 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1438628906b4a8fac1b549
+#EXTINF:-1 tvg-id="793631803" tvg-name="PT | TVCINE ACTION HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE ACTION HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=793631803b4a8fac1b549
+#EXTINF:-1 tvg-id="276534702" tvg-name="PT | RTP 3 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP 3 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=276534702b4a8fac1b549
+#EXTINF:-1 tvg-id="1531114528" tvg-name="PT | BENFICA TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BENFICA TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1531114528b4a8fac1b549
+#EXTINF:-1 tvg-id="702454257" tvg-name="PT | SPORT TV 2 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 2 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=702454257b4a8fac1b549
+#EXTINF:-1 tvg-id="2259646737" tvg-name="PT | SPORT TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2259646737b4a8fac1b549
+#EXTINF:-1 tvg-id="3499798327" tvg-name="PT | FOX MOVIES HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FOX MOVIES HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3499798327b4a8fac1b549
+#EXTINF:-1 tvg-id="2344682350" tvg-name="PT | SPORT TV 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2344682350b4a8fac1b549
+#EXTINF:-1 tvg-id="3628095071" tvg-name="PT | CANAL HOLLYWOOD (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL HOLLYWOOD (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3628095071b4a8fac1b549
+#EXTINF:-1 tvg-id="1658993918" tvg-name="PT | SPORT TV 2 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 2 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1658993918b4a8fac1b549
+#EXTINF:-1 tvg-id="3862034077" tvg-name="PT | SPORT TV + (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV + (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3862034077b4a8fac1b549
+#EXTINF:-1 tvg-id="538838100" tvg-name="PT | AXN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AXN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=538838100b4a8fac1b549
+#EXTINF:-1 tvg-id="405619759" tvg-name="PT | TVCINE TOP HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE TOP HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=405619759b4a8fac1b549
+#EXTINF:-1 tvg-id="2182682775" tvg-name="PT | CNN PORTUGAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CNN PORTUGAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2182682775b4a8fac1b549
+#EXTINF:-1 tvg-id="474759302" tvg-name="PT | AXN MOVIES (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AXN MOVIES (6)
+http://192.168.1.60:8080/Rokkr.php?ID=474759302b4a8fac1b549
+#EXTINF:-1 tvg-id="2596009475" tvg-name="PT | CINE MUNDO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CINE MUNDO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2596009475b4a8fac1b549
+#EXTINF:-1 tvg-id="525538314" tvg-name="PT | HISTORIA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | HISTORIA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=525538314b4a8fac1b549
+#EXTINF:-1 tvg-id="4254404503" tvg-name="PT | CINEMUNDO (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CINEMUNDO (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4254404503b4a8fac1b549
+#EXTINF:-1 tvg-id="1059923452" tvg-name="PT | BENFICA TV (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BENFICA TV (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1059923452b4a8fac1b549
+#EXTINF:-1 tvg-id="2894250918" tvg-name="PT | BENFICA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BENFICA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2894250918b4a8fac1b549
+#EXTINF:-1 tvg-id="419434034" tvg-name="PT | BTV HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BTV HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=419434034b4a8fac1b549
+#EXTINF:-1 tvg-id="1000427064" tvg-name="PT | SPORT TV 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1000427064b4a8fac1b549
+#EXTINF:-1 tvg-id="3475414729" tvg-name="PT | TVI REALITY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI REALITY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3475414729b4a8fac1b549
+#EXTINF:-1 tvg-id="199161253" tvg-name="PT | CANAL 11 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL 11 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=199161253b4a8fac1b549
+#EXTINF:-1 tvg-id="1987468951" tvg-name="PT | SIC INTERNACIONAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC INTERNACIONAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1987468951b4a8fac1b549
+#EXTINF:-1 tvg-id="4112970089" tvg-name="PT | SIC NOTICIAS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC NOTICIAS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4112970089b4a8fac1b549
+#EXTINF:-1 tvg-id="3790970324" tvg-name="PT | TVCINE ACTION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE ACTION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3790970324b4a8fac1b549
+#EXTINF:-1 tvg-id="2077195788" tvg-name="PT | AMC CRIME (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AMC CRIME (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2077195788b4a8fac1b549
+#EXTINF:-1 tvg-id="676691326" tvg-name="PT | SPORTING TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORTING TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=676691326b4a8fac1b549
+#EXTINF:-1 tvg-id="3322904148" tvg-name="PT | AMC HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AMC HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3322904148b4a8fac1b549
+#EXTINF:-1 tvg-id="1814987647" tvg-name="PT | ELEVEN SPORT 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1814987647b4a8fac1b549
+#EXTINF:-1 tvg-id="1599763557" tvg-name="PT | ELEVEN SPORTS 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1599763557b4a8fac1b549
+#EXTINF:-1 tvg-id="2972159450" tvg-name="PT | CANAL 11 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL 11 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2972159450b4a8fac1b549
+#EXTINF:-1 tvg-id="2132630830" tvg-name="PT | SIC NOTICIAS HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC NOTICIAS HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2132630830b4a8fac1b549
+#EXTINF:-1 tvg-id="891358544" tvg-name="PT | STAR MOVIES (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | STAR MOVIES (6)
+http://192.168.1.60:8080/Rokkr.php?ID=891358544b4a8fac1b549
+#EXTINF:-1 tvg-id="419040949" tvg-name="PT | ELEVEN SPORTS 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=419040949b4a8fac1b549
+#EXTINF:-1 tvg-id="473732861" tvg-name="PT | STAR CHANNEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | STAR CHANNEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=473732861b4a8fac1b549
+#EXTINF:-1 tvg-id="3033626759" tvg-name="PT | SPORT TV 3 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 3 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3033626759b4a8fac1b549
+#EXTINF:-1 tvg-id="971104126" tvg-name="PT | SPORT TV 5 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 5 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=971104126b4a8fac1b549
+#EXTINF:-1 tvg-id="3588471466" tvg-name="PT | CRIME DISTRICT (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CRIME DISTRICT (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3588471466b4a8fac1b549
+#EXTINF:-1 tvg-id="992741389" tvg-name="PT | FOX COMEDY HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FOX COMEDY HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=992741389b4a8fac1b549
+#EXTINF:-1 tvg-id="1211778226" tvg-name="PT | RECORD TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RECORD TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1211778226b4a8fac1b549
+#EXTINF:-1 tvg-id="2726144103" tvg-name="PT | NOS STUDIOS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NOS STUDIOS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2726144103b4a8fac1b549
+#EXTINF:-1 tvg-id="1009109875" tvg-name="PT | FOX CRIME HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FOX CRIME HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1009109875b4a8fac1b549
+#EXTINF:-1 tvg-id="1196955352" tvg-name="PT | NAT GEO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NAT GEO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1196955352b4a8fac1b549
+#EXTINF:-1 tvg-id="2111785550" tvg-name="PT | ODISSEIA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ODISSEIA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2111785550b4a8fac1b549
+#EXTINF:-1 tvg-id="1633515070" tvg-name="PT | SYFY PORTUGAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SYFY PORTUGAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1633515070b4a8fac1b549
+#EXTINF:-1 tvg-id="4075632687" tvg-name="PT | STAR LIFE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | STAR LIFE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4075632687b4a8fac1b549
+#EXTINF:-1 tvg-id="2545613589" tvg-name="PT | ELEVEN SPORTS 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2545613589b4a8fac1b549
+#EXTINF:-1 tvg-id="2866467493" tvg-name="PT | ELEVEN SPORTS 5 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 5 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2866467493b4a8fac1b549
+#EXTINF:-1 tvg-id="278568941" tvg-name="PT | NAT GEO WILD (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NAT GEO WILD (6)
+http://192.168.1.60:8080/Rokkr.php?ID=278568941b4a8fac1b549
+#EXTINF:-1 tvg-id="455247965" tvg-name="PT | BOM SOM (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BOM SOM (6)
+http://192.168.1.60:8080/Rokkr.php?ID=455247965b4a8fac1b549
+#EXTINF:-1 tvg-id="4002241315" tvg-name="PT | CANAL PANDA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL PANDA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4002241315b4a8fac1b549
+#EXTINF:-1 tvg-id="1972183649" tvg-name="PT | AFRO MUSIC CHANNEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AFRO MUSIC CHANNEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1972183649b4a8fac1b549
+#EXTINF:-1 tvg-id="3954588404" tvg-name="PT | TVI 24 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI 24 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3954588404b4a8fac1b549
+#EXTINF:-1 tvg-id="2171243952" tvg-name="PT | PANDA KIDS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PANDA KIDS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2171243952b4a8fac1b549
+#EXTINF:-1 tvg-id="3318391725" tvg-name="PT | DIZI CHANNEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DIZI CHANNEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3318391725b4a8fac1b549
+#EXTINF:-1 tvg-id="2006567656" tvg-name="PT | C MUSIC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | C MUSIC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2006567656b4a8fac1b549
+#EXTINF:-1 tvg-id="3508326983" tvg-name="PT | SPORT TV 4 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 4 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3508326983b4a8fac1b549
+#EXTINF:-1 tvg-id="1631199830" tvg-name="PT | ELEVEN SPORT 1 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 1 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1631199830b4a8fac1b549
+#EXTINF:-1 tvg-id="75626190" tvg-name="PT | SPORT TV 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=75626190b4a8fac1b549
+#EXTINF:-1 tvg-id="3064015582" tvg-name="PT | SPORT TV 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3064015582b4a8fac1b549
+#EXTINF:-1 tvg-id="1126272030" tvg-name="PT | SPORT TV 7 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 7 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1126272030b4a8fac1b549
+#EXTINF:-1 tvg-id="2923969632" tvg-name="PT | SPORT TV 3 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 3 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2923969632b4a8fac1b549
+#EXTINF:-1 tvg-id="1167702614" tvg-name="PT | TVCINE TOP (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE TOP (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1167702614b4a8fac1b549
+#EXTINF:-1 tvg-id="1835935719" tvg-name="PT | CANAL 11 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL 11 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1835935719b4a8fac1b549
+#EXTINF:-1 tvg-id="3143462075" tvg-name="PT | AXN HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AXN HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3143462075b4a8fac1b549
+#EXTINF:-1 tvg-id="3654612487" tvg-name="PT | EUROSPORT 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3654612487b4a8fac1b549
+#EXTINF:-1 tvg-id="590086654" tvg-name="PT | SIC MULHER (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC MULHER (6)
+http://192.168.1.60:8080/Rokkr.php?ID=590086654b4a8fac1b549
+#EXTINF:-1 tvg-id="254790946" tvg-name="PT | RTP INTERNACIONAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP INTERNACIONAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=254790946b4a8fac1b549
+#EXTINF:-1 tvg-id="2118231470" tvg-name="PT | SPORT TV 6 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 6 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2118231470b4a8fac1b549
+#EXTINF:-1 tvg-id="737435862" tvg-name="PT | FOX HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FOX HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=737435862b4a8fac1b549
+#EXTINF:-1 tvg-id="1911367959" tvg-name="PT | SIC NOVELAS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC NOVELAS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1911367959b4a8fac1b549
+#EXTINF:-1 tvg-id="1761868334" tvg-name="PT | TVCINE EDITION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE EDITION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1761868334b4a8fac1b549
+#EXTINF:-1 tvg-id="2736589383" tvg-name="PT | SIC CARAS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC CARAS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2736589383b4a8fac1b549
+#EXTINF:-1 tvg-id="3859589230" tvg-name="PT | TVCINE EMOTION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE EMOTION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3859589230b4a8fac1b549
+#EXTINF:-1 tvg-id="1676049953" tvg-name="PT | AMC BREAK (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AMC BREAK (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1676049953b4a8fac1b549
+#EXTINF:-1 tvg-id="2422531998" tvg-name="PT | STAR CRIME (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | STAR CRIME (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2422531998b4a8fac1b549
+#EXTINF:-1 tvg-id="956832485" tvg-name="PT | TVI FICﾃ�ﾃグ (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI FICﾃ�ﾃグ (6)
+http://192.168.1.60:8080/Rokkr.php?ID=956832485b4a8fac1b549
+#EXTINF:-1 tvg-id="575701033" tvg-name="PT | DISCOVERY WORLD (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DISCOVERY WORLD (6)
+http://192.168.1.60:8080/Rokkr.php?ID=575701033b4a8fac1b549
+#EXTINF:-1 tvg-id="1865352457" tvg-name="PT | A BOLA TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | A BOLA TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1865352457b4a8fac1b549
+#EXTINF:-1 tvg-id="998167995" tvg-name="PT | MCM POP (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MCM POP (6)
+http://192.168.1.60:8080/Rokkr.php?ID=998167995b4a8fac1b549
+#EXTINF:-1 tvg-id="3404489721" tvg-name="PT | BABY TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BABY TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3404489721b4a8fac1b549
+#EXTINF:-1 tvg-id="2672740913" tvg-name="PT | CARTOON NETWORK (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CARTOON NETWORK (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2672740913b4a8fac1b549
+#EXTINF:-1 tvg-id="1100907938" tvg-name="PT | RTP Aﾃ�ORES (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP Aﾃ�ORES (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1100907938b4a8fac1b549
+#EXTINF:-1 tvg-id="3682477794" tvg-name="PT | CAﾃ�AVISION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CAﾃ�AVISION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3682477794b4a8fac1b549
+#EXTINF:-1 tvg-id="574978281" tvg-name="PT | 24 KITCHEN HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | 24 KITCHEN HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=574978281b4a8fac1b549
+#EXTINF:-1 tvg-id="4163765902" tvg-name="PT | RTP 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4163765902b4a8fac1b549
+#EXTINF:-1 tvg-id="3637826537" tvg-name="PT | RTP MADEIRA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP MADEIRA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3637826537b4a8fac1b549
+#EXTINF:-1 tvg-id="1966027521" tvg-name="PT | TLC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TLC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1966027521b4a8fac1b549
+#EXTINF:-1 tvg-id="1181792777" tvg-name="PT | INVESTIGATION DISCOVERY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | INVESTIGATION DISCOVERY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1181792777b4a8fac1b549
+#EXTINF:-1 tvg-id="3679644515" tvg-name="PT | BLAZE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BLAZE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3679644515b4a8fac1b549
+#EXTINF:-1 tvg-id="2341819341" tvg-name="PT | AMC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AMC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2341819341b4a8fac1b549
+#EXTINF:-1 tvg-id="551507343" tvg-name="PT | PORTO CANAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PORTO CANAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=551507343b4a8fac1b549
+#EXTINF:-1 tvg-id="1116719162" tvg-name="PT | BABY TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BABY TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1116719162b4a8fac1b549
+#EXTINF:-1 tvg-id="2176778441" tvg-name="PT | 24 KITCHEN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | 24 KITCHEN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2176778441b4a8fac1b549
+#EXTINF:-1 tvg-id="1282781678" tvg-name="PT | STAR COMEDY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | STAR COMEDY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1282781678b4a8fac1b549
+#EXTINF:-1 tvg-id="3518481964" tvg-name="PT | RTP MEMﾃ迭IA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP MEMﾃ迭IA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3518481964b4a8fac1b549
+#EXTINF:-1 tvg-id="476765689" tvg-name="PT | A BOLA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | A BOLA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=476765689b4a8fac1b549
+#EXTINF:-1 tvg-id="2854171354" tvg-name="PT | SIC K (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC K (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2854171354b4a8fac1b549
+#EXTINF:-1 tvg-id="2121846219" tvg-name="PT | NBA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NBA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2121846219b4a8fac1b549
+#EXTINF:-1 tvg-id="2164586665" tvg-name="PT | TVI REALITY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI REALITY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2164586665b4a8fac1b549
+#EXTINF:-1 tvg-id="3430368704" tvg-name="PT | TV MANA 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TV MANA 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3430368704b4a8fac1b549
+#EXTINF:-1 tvg-id="2359297640" tvg-name="PT | CARTOON NETWORK (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CARTOON NETWORK (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2359297640b4a8fac1b549
+#EXTINF:-1 tvg-id="368968283" tvg-name="PT | RTP ﾃ：RICA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP ﾃ：RICA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=368968283b4a8fac1b549
+#EXTINF:-1 tvg-id="2842227117" tvg-name="PT | EURONEWS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EURONEWS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2842227117b4a8fac1b549
+#EXTINF:-1 tvg-id="2695839043" tvg-name="PT | CANAL PANDA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL PANDA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2695839043b4a8fac1b549
+#EXTINF:-1 tvg-id="355320503" tvg-name="PT | WWE NETWORK (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | WWE NETWORK (6)
+http://192.168.1.60:8080/Rokkr.php?ID=355320503b4a8fac1b549
+#EXTINF:-1 tvg-id="630859525" tvg-name="PT | ELEVEN SPORTS 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=630859525b4a8fac1b549
+#EXTINF:-1 tvg-id="1711720571" tvg-name="PT | CANCAO NOVA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANCAO NOVA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1711720571b4a8fac1b549
+#EXTINF:-1 tvg-id="3173711892" tvg-name="PT | CANAL NOS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL NOS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3173711892b4a8fac1b549
+#EXTINF:-1 tvg-id="4017090315" tvg-name="PT | MTV CLASSIC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MTV CLASSIC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4017090315b4a8fac1b549
+#EXTINF:-1 tvg-id="477021226" tvg-name="PT | AXN WHITE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AXN WHITE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=477021226b4a8fac1b549
+#EXTINF:-1 tvg-id="3984238709" tvg-name="PT | ELEVEN SPORTS 6 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 6 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3984238709b4a8fac1b549
+#EXTINF:-1 tvg-id="700421686" tvg-name="PT | CASA & PESCA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CASA & PESCA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=700421686b4a8fac1b549
+#EXTINF:-1 tvg-id="3558682175" tvg-name="PT | MTV PORTUGAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MTV PORTUGAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3558682175b4a8fac1b549
+#EXTINF:-1 tvg-id="3875216039" tvg-name="PT | MTV 00S (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MTV 00S (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3875216039b4a8fac1b549
+#EXTINF:-1 tvg-id="4001042963" tvg-name="PT | LOCAL VISﾃグ (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | LOCAL VISﾃグ (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4001042963b4a8fac1b549
+#EXTINF:-1 tvg-id="4169387839" tvg-name="PT | KURIAKOS KIDS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | KURIAKOS KIDS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4169387839b4a8fac1b549
+#EXTINF:-1 tvg-id="3354497993" tvg-name="PT | CASA E COZINHA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CASA E COZINHA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3354497993b4a8fac1b549
+#EXTINF:-1 tvg-id="1069493045" tvg-name="PT | AFRO MUSIC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AFRO MUSIC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1069493045b4a8fac1b549
+#EXTINF:-1 tvg-id="1348598432" tvg-name="PT | AR TV CANAL PARLAMENTO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AR TV CANAL PARLAMENTO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1348598432b4a8fac1b549
+#EXTINF:-1 tvg-id="3663001423" tvg-name="PT | TPA NOTﾃ垢IAS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TPA NOTﾃ垢IAS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3663001423b4a8fac1b549
+#EXTINF:-1 tvg-id="3286985327" tvg-name="PT | AXN WHITE HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AXN WHITE HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3286985327b4a8fac1b549
+#EXTINF:-1 tvg-id="3972324290" tvg-name="PT | ALMA LUSA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ALMA LUSA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3972324290b4a8fac1b549
+#EXTINF:-1 tvg-id="178864298" tvg-name="PT | SIC RADICAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC RADICAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=178864298b4a8fac1b549
+#EXTINF:-1 tvg-id="631488050" tvg-name="PT | MEO VIDEOCLUBE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MEO VIDEOCLUBE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=631488050b4a8fac1b549
+#EXTINF:-1 tvg-id="2640469163" tvg-name="PT | KURIAKOS TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | KURIAKOS TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2640469163b4a8fac1b549
+#EXTINF:-1 tvg-id="2767092518" tvg-name="PT | CANAL Q (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL Q (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2767092518b4a8fac1b549
+#EXTINF:-1 tvg-id="747491557" tvg-name="PT | CANAL Q (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL Q (6)
+http://192.168.1.60:8080/Rokkr.php?ID=747491557b4a8fac1b549
+#EXTINF:-1 tvg-id="1332279307" tvg-name="PT | CARTOONITO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CARTOONITO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1332279307b4a8fac1b549
+#EXTINF:-1 tvg-id="3775102231" tvg-name="PT | CBS REALITY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CBS REALITY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3775102231b4a8fac1b549
+#EXTINF:-1 tvg-id="174225106" tvg-name="PT | MOTORVISION TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MOTORVISION TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=174225106b4a8fac1b549
+#EXTINF:-1 tvg-id="2106247479" tvg-name="PT | OPTO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | OPTO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2106247479b4a8fac1b549
+#EXTINF:-1 tvg-id="3680852273" tvg-name="PT | SAUDE+ (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SAUDE+ (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3680852273b4a8fac1b549
+#EXTINF:-1 tvg-id="1165966812" tvg-name="PT | NICK JUNIOR (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NICK JUNIOR (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1165966812b4a8fac1b549
+#EXTINF:-1 tvg-id="1577389543" tvg-name="PT | CACCIA E PESCA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CACCIA E PESCA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1577389543b4a8fac1b549
+#EXTINF:-1 tvg-id="2742858545" tvg-name="PT | NICKELODEON (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NICKELODEON (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2742858545b4a8fac1b549
+#EXTINF:-1 tvg-id="2693440346" tvg-name="PT | BIGGS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BIGGS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2693440346b4a8fac1b549
+#EXTINF:-1 tvg-id="3476156840" tvg-name="PT | MCM TOP (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MCM TOP (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3476156840b4a8fac1b549
+#EXTINF:-1 tvg-id="1718019314" tvg-name="PT | SPORT TV NBA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV NBA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1718019314b4a8fac1b549
+#EXTINF:-1 tvg-id="2869243622" tvg-name="PT | W-SPORT (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | W-SPORT (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2869243622b4a8fac1b549
+#EXTINF:-1 tvg-id="71983983" tvg-name="PT | FUEL TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FUEL TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=71983983b4a8fac1b549
+#EXTINF:-1 tvg-id="2769296124" tvg-name="PT | TRAVELXP (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TRAVELXP (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2769296124b4a8fac1b549
+#EXTINF:-1 tvg-id="380717209" tvg-name="PT | ARTV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ARTV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=380717209b4a8fac1b549
+#EXTINF:-1 tvg-id="1894635407" tvg-name="PT | KANUCA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | KANUCA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1894635407b4a8fac1b549
+#EXTINF:-1 tvg-id="4282023659" tvg-name="PT | TRAVEL CHANNEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TRAVEL CHANNEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4282023659b4a8fac1b549
+#EXTINF:-1 tvg-id="3138815174" tvg-name="PT | MOTORVISION (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MOTORVISION (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3138815174b4a8fac1b549
+#EXTINF:-1 tvg-id="230373228" tvg-name="PT | CNBC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CNBC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=230373228b4a8fac1b549
+#EXTINF:-1 tvg-id="1585099730" tvg-name="PT | DOG TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DOG TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1585099730b4a8fac1b549
+#EXTINF:-1 tvg-id="2167632122" tvg-name="PT | STINGRAY RETRO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | STINGRAY RETRO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2167632122b4a8fac1b549
+#EXTINF:-1 tvg-id="1276326705" tvg-name="PT | SPORT TV 5 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 5 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1276326705b4a8fac1b549
+#EXTINF:-1 tvg-id="2391771240" tvg-name="PT | TVI AFRICA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI AFRICA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2391771240b4a8fac1b549
+#EXTINF:-1 tvg-id="2635838576" tvg-name="PT | E! (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | E! (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2635838576b4a8fac1b549
+#EXTINF:-1 tvg-id="231845708" tvg-name="PT | CAMPO PEQUENO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CAMPO PEQUENO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=231845708b4a8fac1b549
+#EXTINF:-1 tvg-id="1137861489" tvg-name="PT | CRIME INVISTIGATION (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CRIME INVISTIGATION (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1137861489b4a8fac1b549
+#EXTINF:-1 tvg-id="1471702249" tvg-name="PT | HISTORIA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | HISTORIA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1471702249b4a8fac1b549
+#EXTINF:-1 tvg-id="2739768128" tvg-name="PT | FOX LIFE HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FOX LIFE HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2739768128b4a8fac1b549
+#EXTINF:-1 tvg-id="327951467" tvg-name="PT | CRIME+ INVESTIGATION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CRIME+ INVESTIGATION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=327951467b4a8fac1b549
+#EXTINF:-1 tvg-id="503347396" tvg-name="PT | NATIONAL GEOGRAPHIC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NATIONAL GEOGRAPHIC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=503347396b4a8fac1b549
+#EXTINF:-1 tvg-id="3753231864" tvg-name="PT | PFC (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PFC (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3753231864b4a8fac1b549
+#EXTINF:-1 tvg-id="2447945475" tvg-name="PT | PFC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PFC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2447945475b4a8fac1b549
+#EXTINF:-1 tvg-id="2370723370" tvg-name="PT | AXN MOVIES HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | AXN MOVIES HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2370723370b4a8fac1b549
+#EXTINF:-1 tvg-id="2080453864" tvg-name="PT | SPORT TV 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2080453864b4a8fac1b549
+#EXTINF:-1 tvg-id="3294572902" tvg-name="PT | ELEVEN SPORTS 1 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 1 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3294572902b4a8fac1b549
+#EXTINF:-1 tvg-id="1255821242" tvg-name="PT | ELEVEN SPORTS 1 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 1 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1255821242b4a8fac1b549
+#EXTINF:-1 tvg-id="779445982" tvg-name="PT | SPORT TV 2 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 2 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=779445982b4a8fac1b549
+#EXTINF:-1 tvg-id="18224894" tvg-name="PT | SPORT TV + HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV + HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=18224894b4a8fac1b549
+#EXTINF:-1 tvg-id="1096883544" tvg-name="PT | SPORT TV 3 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 3 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1096883544b4a8fac1b549
+#EXTINF:-1 tvg-id="2549518439" tvg-name="PT | EUROSPORT 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2549518439b4a8fac1b549
+#EXTINF:-1 tvg-id="2849222045" tvg-name="PT | SPORT TV 3 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 3 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2849222045b4a8fac1b549
+#EXTINF:-1 tvg-id="783187914" tvg-name="PT | DISCOVERY CHANNEL HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DISCOVERY CHANNEL HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=783187914b4a8fac1b549
+#EXTINF:-1 tvg-id="2291776416" tvg-name="PT | TV RECORD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TV RECORD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2291776416b4a8fac1b549
+#EXTINF:-1 tvg-id="2658438359" tvg-name="PT | EUROSPORT 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2658438359b4a8fac1b549
+#EXTINF:-1 tvg-id="3572250232" tvg-name="PT | SIC MULHER (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC MULHER (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3572250232b4a8fac1b549
+#EXTINF:-1 tvg-id="384749599" tvg-name="PT | ELEVEN SPORT 3 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 3 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=384749599b4a8fac1b549
+#EXTINF:-1 tvg-id="492504973" tvg-name="PT | ELEVEN SPORT 2 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 2 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=492504973b4a8fac1b549
+#EXTINF:-1 tvg-id="730790319" tvg-name="PT | ELEVEN SPORT 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=730790319b4a8fac1b549
+#EXTINF:-1 tvg-id="265959469" tvg-name="PT | TVI FIC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI FIC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=265959469b4a8fac1b549
+#EXTINF:-1 tvg-id="1631158010" tvg-name="PT | EUROSPORT 1 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 1 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1631158010b4a8fac1b549
+#EXTINF:-1 tvg-id="3068526841" tvg-name="PT | TV GLOBO (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TV GLOBO (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3068526841b4a8fac1b549
+#EXTINF:-1 tvg-id="1255159429" tvg-name="PT | ELEVEN SPORTS 2 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 2 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1255159429b4a8fac1b549
+#EXTINF:-1 tvg-id="3458328824" tvg-name="PT | SPORT TV 5 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 5 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3458328824b4a8fac1b549
+#EXTINF:-1 tvg-id="4081172808" tvg-name="PT | SPORT TV 4 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 4 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4081172808b4a8fac1b549
+#EXTINF:-1 tvg-id="3247544311" tvg-name="PT | SPORTING TV (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORTING TV (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3247544311b4a8fac1b549
+#EXTINF:-1 tvg-id="2361343746" tvg-name="PT | ELEVEN SPORTS 4 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 4 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2361343746b4a8fac1b549
+#EXTINF:-1 tvg-id="2760717689" tvg-name="PT | SPORT TV 4 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 4 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2760717689b4a8fac1b549
+#EXTINF:-1 tvg-id="3005054584" tvg-name="PT | MCM POP (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MCM POP (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3005054584b4a8fac1b549
+#EXTINF:-1 tvg-id="423629886" tvg-name="PT | ELEVEN SPORTS 2 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 2 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=423629886b4a8fac1b549
+#EXTINF:-1 tvg-id="1719081758" tvg-name="PT | SPORTING TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORTING TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1719081758b4a8fac1b549
+#EXTINF:-1 tvg-id="3965701639" tvg-name="PT | NOS STUDIOS (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NOS STUDIOS (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3965701639b4a8fac1b549
+#EXTINF:-1 tvg-id="1260407014" tvg-name="PT | VH1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | VH1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1260407014b4a8fac1b549
+#EXTINF:-1 tvg-id="3523975641" tvg-name="PT | ELEVEN SPORT 4 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 4 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3523975641b4a8fac1b549
+#EXTINF:-1 tvg-id="3495482039" tvg-name="PT | SIC CARAS (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC CARAS (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3495482039b4a8fac1b549
+#EXTINF:-1 tvg-id="513907015" tvg-name="PT | ELEVEN SPORT 5 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 5 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=513907015b4a8fac1b549
+#EXTINF:-1 tvg-id="1668808212" tvg-name="PT | DISNEY CHANNEL (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DISNEY CHANNEL (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1668808212b4a8fac1b549
+#EXTINF:-1 tvg-id="2665930621" tvg-name="PT | ELEVEN SPORTS 3 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 3 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2665930621b4a8fac1b549
+#EXTINF:-1 tvg-id="2256156187" tvg-name="PT | ELEVEN SPORTS 3 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 3 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2256156187b4a8fac1b549
+#EXTINF:-1 tvg-id="4064509244" tvg-name="PT | TVCINE EMOTION HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE EMOTION HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4064509244b4a8fac1b549
+#EXTINF:-1 tvg-id="2693289753" tvg-name="PT | NAT GEO WILD HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NAT GEO WILD HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2693289753b4a8fac1b549
+#EXTINF:-1 tvg-id="3865452148" tvg-name="PT | SYFY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SYFY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3865452148b4a8fac1b549
+#EXTINF:-1 tvg-id="756792350" tvg-name="PT | RTP 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=756792350b4a8fac1b549
+#EXTINF:-1 tvg-id="1862087663" tvg-name="PT | PORTO CANAL (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PORTO CANAL (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1862087663b4a8fac1b549
+#EXTINF:-1 tvg-id="784576657" tvg-name="PT | TOROS TV (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TOROS TV (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=784576657b4a8fac1b549
+#EXTINF:-1 tvg-id="3725483887" tvg-name="PT | ELEVEN SPORT 6 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORT 6 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3725483887b4a8fac1b549
+#EXTINF:-1 tvg-id="2133493834" tvg-name="PT | SIC K (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC K (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2133493834b4a8fac1b549
+#EXTINF:-1 tvg-id="771141542" tvg-name="PT | DISNEY JUNIOR (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DISNEY JUNIOR (1)
+http://192.168.1.60:8080/Rokkr.php?ID=771141542b4a8fac1b549
+#EXTINF:-1 tvg-id="892615341" tvg-name="PT | ODISSEIA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ODISSEIA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=892615341b4a8fac1b549
+#EXTINF:-1 tvg-id="3195314998" tvg-name="PT | ELEVEN SPORTS 4 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 4 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3195314998b4a8fac1b549
+#EXTINF:-1 tvg-id="3292309622" tvg-name="PT | TLC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TLC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3292309622b4a8fac1b549
+#EXTINF:-1 tvg-id="2864320028" tvg-name="PT | PORTO CANAL (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PORTO CANAL (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2864320028b4a8fac1b549
+#EXTINF:-1 tvg-id="2599146036" tvg-name="PT | TVCINE EDITION HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVCINE EDITION HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2599146036b4a8fac1b549
+#EXTINF:-1 tvg-id="3988851775" tvg-name="PT | CAZA Y PESCA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CAZA Y PESCA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3988851775b4a8fac1b549
+#EXTINF:-1 tvg-id="1149970122" tvg-name="PT | SIC RADICAL (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SIC RADICAL (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1149970122b4a8fac1b549
+#EXTINF:-1 tvg-id="3594847568" tvg-name="PT | RTP MEMﾃ迭IA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP MEMﾃ迭IA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3594847568b4a8fac1b549
+#EXTINF:-1 tvg-id="224744270" tvg-name="PT | TRAVEL CHANNEL HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TRAVEL CHANNEL HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=224744270b4a8fac1b549
+#EXTINF:-1 tvg-id="80762089" tvg-name="PT | MOTO GP HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MOTO GP HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=80762089b4a8fac1b549
+#EXTINF:-1 tvg-id="2412387466" tvg-name="PT | HOLLYWOOD HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | HOLLYWOOD HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2412387466b4a8fac1b549
+#EXTINF:-1 tvg-id="1985937235" tvg-name="PT | ELEVEN SPORTS 5 FHD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 5 FHD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1985937235b4a8fac1b549
+#EXTINF:-1 tvg-id="1874759730" tvg-name="PT | CANAL 180 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CANAL 180 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1874759730b4a8fac1b549
+#EXTINF:-1 tvg-id="1885378174" tvg-name="PT | RTP AFRICA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP AFRICA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1885378174b4a8fac1b549
+#EXTINF:-1 tvg-id="1075134364" tvg-name="PT | ELEVEN SPORTS 5 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 5 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1075134364b4a8fac1b549
+#EXTINF:-1 tvg-id="3097266041" tvg-name="PT | BOOMERANG (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BOOMERANG (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3097266041b4a8fac1b549
+#EXTINF:-1 tvg-id="3973057265" tvg-name="PT | JIM JAM (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | JIM JAM (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3973057265b4a8fac1b549
+#EXTINF:-1 tvg-id="3982415185" tvg-name="PT | NICKELODEON (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NICKELODEON (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3982415185b4a8fac1b549
+#EXTINF:-1 tvg-id="3555716419" tvg-name="PT | MTV PORTUGAL (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MTV PORTUGAL (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3555716419b4a8fac1b549
+#EXTINF:-1 tvg-id="2568401236" tvg-name="PT | FIREMAN SAM (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FIREMAN SAM (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2568401236b4a8fac1b549
+#EXTINF:-1 tvg-id="3100022685" tvg-name="PT | HGTV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | HGTV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3100022685b4a8fac1b549
+#EXTINF:-1 tvg-id="2910919734" tvg-name="PT | E! ENTERTAINMENT (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | E! ENTERTAINMENT (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2910919734b4a8fac1b549
+#EXTINF:-1 tvg-id="3694338679" tvg-name="PT | TRACE URBAN HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TRACE URBAN HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3694338679b4a8fac1b549
+#EXTINF:-1 tvg-id="1961433088" tvg-name="PT | RTP ACORES (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | RTP ACORES (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1961433088b4a8fac1b549
+#EXTINF:-1 tvg-id="1783116785" tvg-name="PT | ELEVEN SPORTS 6 HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 6 HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1783116785b4a8fac1b549
+#EXTINF:-1 tvg-id="3466213503" tvg-name="PT | ELEVEN SPORTS 6 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | ELEVEN SPORTS 6 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3466213503b4a8fac1b549
+#EXTINF:-1 tvg-id="3688799089" tvg-name="PT | FASHIONTV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FASHIONTV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3688799089b4a8fac1b549
+#EXTINF:-1 tvg-id="2751720311" tvg-name="PT | SPORT TV NBA HD (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV NBA HD (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2751720311b4a8fac1b549
+#EXTINF:-1 tvg-id="2362437748" tvg-name="PT | BLOOMBERG (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | BLOOMBERG (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2362437748b4a8fac1b549
+#EXTINF:-1 tvg-id="462395947" tvg-name="PT | MOTORVISION (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MOTORVISION (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=462395947b4a8fac1b549
+#EXTINF:-1 tvg-id="1747400167" tvg-name="PT | SPORT TV 5 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV 5 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1747400167b4a8fac1b549
+#EXTINF:-1 tvg-id="1960865357" tvg-name="PT | FOOD NETWORK (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FOOD NETWORK (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1960865357b4a8fac1b549
+#EXTINF:-1 tvg-id="521041364" tvg-name="PT | EUROSPORT 2 (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 2 (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=521041364b4a8fac1b549
+#EXTINF:-1 tvg-id="3495357111" tvg-name="PT | EUROSPORT 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3495357111b4a8fac1b549
+#EXTINF:-1 tvg-id="2351548588" tvg-name="PT | FUEL TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FUEL TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2351548588b4a8fac1b549
+#EXTINF:-1 tvg-id="3285958459" tvg-name="PT | NICK JR. (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | NICK JR. (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3285958459b4a8fac1b549
+#EXTINF:-1 tvg-id="2551829420" tvg-name="PT | DISNEY+ (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | DISNEY+ (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2551829420b4a8fac1b549
+#EXTINF:-1 tvg-id="2938182519" tvg-name="PT | CBS REALITY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | CBS REALITY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2938182519b4a8fac1b549
+#EXTINF:-1 tvg-id="1545104352" tvg-name="PT | MEO DESTAQUES (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | MEO DESTAQUES (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1545104352b4a8fac1b549
+#EXTINF:-1 tvg-id="3476204840" tvg-name="PT | SPORT TV NBA HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | SPORT TV NBA HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3476204840b4a8fac1b549
+#EXTINF:-1 tvg-id="3953435677" tvg-name="PT | FUEL TV (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FUEL TV (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3953435677b4a8fac1b549
+#EXTINF:-1 tvg-id="1811163671" tvg-name="PT | EUROSPORT 6 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | EUROSPORT 6 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1811163671b4a8fac1b549
+#EXTINF:-1 tvg-id="2141709191" tvg-name="PT | KOMBAT SPORT (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | KOMBAT SPORT (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2141709191b4a8fac1b549
+#EXTINF:-1 tvg-id="2099488922" tvg-name="PT | TV GLOBO NOW (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TV GLOBO NOW (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2099488922b4a8fac1b549
+#EXTINF:-1 tvg-id="1870155352" tvg-name="PT | TVI REALITY CAMARA 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI REALITY CAMARA 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1870155352b4a8fac1b549
+#EXTINF:-1 tvg-id="2395509066" tvg-name="PT | FATIMA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | FATIMA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2395509066b4a8fac1b549
+#EXTINF:-1 tvg-id="1619697698" tvg-name="PT | TOROS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TOROS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1619697698b4a8fac1b549
+#EXTINF:-1 tvg-id="1243809524" tvg-name="PT | TOROS TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TOROS TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1243809524b4a8fac1b549
+#EXTINF:-1 tvg-id="70466683" tvg-name="PT | KOMBAT SPORT (BACKUP) (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | KOMBAT SPORT (BACKUP) (1)
+http://192.168.1.60:8080/Rokkr.php?ID=70466683b4a8fac1b549
+#EXTINF:-1 tvg-id="2958694111" tvg-name="PT | PANDA BIGGS (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | PANDA BIGGS (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2958694111b4a8fac1b549
+#EXTINF:-1 tvg-id="1377331176" tvg-name="PT | TVI REALITY CAMARA 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI REALITY CAMARA 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1377331176b4a8fac1b549
+#EXTINF:-1 tvg-id="3761814520" tvg-name="PT | TVI REALITY CAMARA 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI REALITY CAMARA 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3761814520b4a8fac1b549
+#EXTINF:-1 tvg-id="1909931690" tvg-name="PT | TVI REALITY MOSAICO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Portugal",PT | TVI REALITY MOSAICO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1909931690b4a8fac1b549
