@@ -1,0 +1,899 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="1238355296" tvg-name="BALK | ARENA SPORT 1 PREMIUM (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 1 PREMIUM (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1238355296b4a8fac1b549
+#EXTINF:-1 tvg-id="2085201572" tvg-name="BALK | PINK 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2085201572b4a8fac1b549
+#EXTINF:-1 tvg-id="79472391" tvg-name="BALK | ARENA SPORT 1 HR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 1 HR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=79472391b4a8fac1b549
+#EXTINF:-1 tvg-id="1024017880" tvg-name="BALK | ARENA SPORT PREMIUM 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT PREMIUM 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1024017880b4a8fac1b549
+#EXTINF:-1 tvg-id="1205199104" tvg-name="BALK | LUD ZBUNJEN NORMALAN (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | LUD ZBUNJEN NORMALAN (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1205199104b4a8fac1b549
+#EXTINF:-1 tvg-id="2535621920" tvg-name="BALK | ELITA8 LIVE 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ELITA8 LIVE 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2535621920b4a8fac1b549
+#EXTINF:-1 tvg-id="1039949502" tvg-name="BALK | DOMA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOMA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1039949502b4a8fac1b549
+#EXTINF:-1 tvg-id="2424553859" tvg-name="BALK | HBO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2424553859b4a8fac1b549
+#EXTINF:-1 tvg-id="3238173013" tvg-name="BALK | RTL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3238173013b4a8fac1b549
+#EXTINF:-1 tvg-id="4094009774" tvg-name="BALK | ARENA SPORT 2 PREMIUM (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 2 PREMIUM (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4094009774b4a8fac1b549
+#EXTINF:-1 tvg-id="1294430320" tvg-name="BALK | CINESTAR ACTION (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR ACTION (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1294430320b4a8fac1b549
+#EXTINF:-1 tvg-id="1206196149" tvg-name="BALK | ZADRUGA 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ZADRUGA 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1206196149b4a8fac1b549
+#EXTINF:-1 tvg-id="3977868689" tvg-name="BALK | RTS 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3977868689b4a8fac1b549
+#EXTINF:-1 tvg-id="241827126" tvg-name="BALK | PINK ACTION (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK ACTION (7)
+http://192.168.1.60:8080/Rokkr.php?ID=241827126b4a8fac1b549
+#EXTINF:-1 tvg-id="3874892108" tvg-name="BALK | CINESTAR ACTION TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR ACTION TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3874892108b4a8fac1b549
+#EXTINF:-1 tvg-id="3677791084" tvg-name="BALK | CINESTAR TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3677791084b4a8fac1b549
+#EXTINF:-1 tvg-id="671059582" tvg-name="BALK | PINK PREMIUM (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK PREMIUM (1)
+http://192.168.1.60:8080/Rokkr.php?ID=671059582b4a8fac1b549
+#EXTINF:-1 tvg-id="3013941449" tvg-name="BALK | PINK 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3013941449b4a8fac1b549
+#EXTINF:-1 tvg-id="2057912072" tvg-name="BALK | ARENA SPORT PREMIUM 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT PREMIUM 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2057912072b4a8fac1b549
+#EXTINF:-1 tvg-id="4232673163" tvg-name="BALK | NOVA BH (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NOVA BH (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4232673163b4a8fac1b549
+#EXTINF:-1 tvg-id="663124824" tvg-name="BALK | NOVA BH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NOVA BH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=663124824b4a8fac1b549
+#EXTINF:-1 tvg-id="3601267133" tvg-name="BALK | HAYAT (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3601267133b4a8fac1b549
+#EXTINF:-1 tvg-id="2407104780" tvg-name="BALK | CINESTAR FANTASY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR FANTASY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2407104780b4a8fac1b549
+#EXTINF:-1 tvg-id="1184051403" tvg-name="BALK | NOVA SERIES (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NOVA SERIES (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1184051403b4a8fac1b549
+#EXTINF:-1 tvg-id="2523260552" tvg-name="BALK | CINE+ SELECT 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2523260552b4a8fac1b549
+#EXTINF:-1 tvg-id="3434111784" tvg-name="BALK | PINK MOVIES (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK MOVIES (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3434111784b4a8fac1b549
+#EXTINF:-1 tvg-id="2636960944" tvg-name="BALK | CINEMAX 1 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMAX 1 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2636960944b4a8fac1b549
+#EXTINF:-1 tvg-id="2786438473" tvg-name="BALK | CINE+ SELECT 9 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 9 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2786438473b4a8fac1b549
+#EXTINF:-1 tvg-id="1901360651" tvg-name="BALK | PINK THRILLER (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK THRILLER (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1901360651b4a8fac1b549
+#EXTINF:-1 tvg-id="1442214730" tvg-name="BALK | HAPPY TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAPPY TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1442214730b4a8fac1b549
+#EXTINF:-1 tvg-id="3040873301" tvg-name="BALK | ARENA SPORT 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3040873301b4a8fac1b549
+#EXTINF:-1 tvg-id="3481294901" tvg-name="BALK | ARENA SPORT 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3481294901b4a8fac1b549
+#EXTINF:-1 tvg-id="418286784" tvg-name="BALK | ARENA SPORT 1 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 1 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=418286784b4a8fac1b549
+#EXTINF:-1 tvg-id="1266026394" tvg-name="BALK | PINK ACTION (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK ACTION (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1266026394b4a8fac1b549
+#EXTINF:-1 tvg-id="3498246128" tvg-name="BALK | ELITA8 LIVE 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ELITA8 LIVE 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3498246128b4a8fac1b549
+#EXTINF:-1 tvg-id="1606552144" tvg-name="BALK | ELITA8 LIVE 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ELITA8 LIVE 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1606552144b4a8fac1b549
+#EXTINF:-1 tvg-id="1398596310" tvg-name="BALK | PINK CRIME & MYSTERY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK CRIME & MYSTERY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1398596310b4a8fac1b549
+#EXTINF:-1 tvg-id="3988502808" tvg-name="BALK | HBO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3988502808b4a8fac1b549
+#EXTINF:-1 tvg-id="639412623" tvg-name="BALK | HISTORY HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HISTORY HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=639412623b4a8fac1b549
+#EXTINF:-1 tvg-id="355106282" tvg-name="BALK | CINE+ SELECT 10 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 10 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=355106282b4a8fac1b549
+#EXTINF:-1 tvg-id="3844486588" tvg-name="BALK | PINK WORLD CINEMA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK WORLD CINEMA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3844486588b4a8fac1b549
+#EXTINF:-1 tvg-id="2089535721" tvg-name="BALK | CINESTAR FANTASY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR FANTASY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2089535721b4a8fac1b549
+#EXTINF:-1 tvg-id="559958860" tvg-name="BALK | PINK SCI-FI & FANTASY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SCI-FI & FANTASY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=559958860b4a8fac1b549
+#EXTINF:-1 tvg-id="6909032" tvg-name="BALK | ARENA SPORT PREMIUM 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT PREMIUM 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=6909032b4a8fac1b549
+#EXTINF:-1 tvg-id="3611265655" tvg-name="BALK | HRT 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HRT 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3611265655b4a8fac1b549
+#EXTINF:-1 tvg-id="2522975011" tvg-name="BALK | ARENA SPORT 2 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 2 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2522975011b4a8fac1b549
+#EXTINF:-1 tvg-id="2389983617" tvg-name="BALK | ARENA SPORT 1 SRB (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 1 SRB (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2389983617b4a8fac1b549
+#EXTINF:-1 tvg-id="2024576859" tvg-name="BALK | CINESTAR PREMIERE 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR PREMIERE 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2024576859b4a8fac1b549
+#EXTINF:-1 tvg-id="2936483261" tvg-name="BALK | SPORT KLUB 2 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 2 [LIVE DURING EVENTS ONLY] (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2936483261b4a8fac1b549
+#EXTINF:-1 tvg-id="1735334790" tvg-name="BALK | PINK WESTERN (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK WESTERN (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1735334790b4a8fac1b549
+#EXTINF:-1 tvg-id="4133020721" tvg-name="BALK | SPORT KLUB 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4133020721b4a8fac1b549
+#EXTINF:-1 tvg-id="652966221" tvg-name="BALK | ARENA SPORT 4 BIH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 4 BIH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=652966221b4a8fac1b549
+#EXTINF:-1 tvg-id="1441857735" tvg-name="BALK | ARENA SPORT 2 BIH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 2 BIH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1441857735b4a8fac1b549
+#EXTINF:-1 tvg-id="1086369173" tvg-name="BALK | ARENA SPORT 5 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 5 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1086369173b4a8fac1b549
+#EXTINF:-1 tvg-id="1457742501" tvg-name="BALK | RTL 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1457742501b4a8fac1b549
+#EXTINF:-1 tvg-id="1202980829" tvg-name="BALK | CINESTAR COMEDY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR COMEDY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1202980829b4a8fac1b549
+#EXTINF:-1 tvg-id="23764060" tvg-name="BALK | SPORT KLUB 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=23764060b4a8fac1b549
+#EXTINF:-1 tvg-id="3735821845" tvg-name="BALK | CINESTAR TV ACTION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV ACTION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3735821845b4a8fac1b549
+#EXTINF:-1 tvg-id="445499990" tvg-name="BALK | FOX (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX (1)
+http://192.168.1.60:8080/Rokkr.php?ID=445499990b4a8fac1b549
+#EXTINF:-1 tvg-id="3646005707" tvg-name="BALK | HBO 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3646005707b4a8fac1b549
+#EXTINF:-1 tvg-id="4019883638" tvg-name="BALK | KLASIK TV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KLASIK TV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4019883638b4a8fac1b549
+#EXTINF:-1 tvg-id="1537612094" tvg-name="BALK | GRAND TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | GRAND TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1537612094b4a8fac1b549
+#EXTINF:-1 tvg-id="1184655216" tvg-name="BALK | CRIME & INVESTIGATION (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CRIME & INVESTIGATION (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1184655216b4a8fac1b549
+#EXTINF:-1 tvg-id="2742200248" tvg-name="BALK | TV1000 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV1000 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2742200248b4a8fac1b549
+#EXTINF:-1 tvg-id="1149646634" tvg-name="BALK | HISTORY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HISTORY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1149646634b4a8fac1b549
+#EXTINF:-1 tvg-id="4198860512" tvg-name="BALK | PINK SERIJE (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SERIJE (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4198860512b4a8fac1b549
+#EXTINF:-1 tvg-id="2628026938" tvg-name="BALK | ARENA SPORT 5 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 5 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2628026938b4a8fac1b549
+#EXTINF:-1 tvg-id="3519388760" tvg-name="BALK | CINE+ SELECT 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3519388760b4a8fac1b549
+#EXTINF:-1 tvg-id="1589024375" tvg-name="BALK | NATIONAL GEO WILD HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NATIONAL GEO WILD HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1589024375b4a8fac1b549
+#EXTINF:-1 tvg-id="1675968584" tvg-name="BALK | CINE+ SELECT 5 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 5 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1675968584b4a8fac1b549
+#EXTINF:-1 tvg-id="2309986692" tvg-name="BALK | PINK MOVIES (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK MOVIES (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2309986692b4a8fac1b549
+#EXTINF:-1 tvg-id="1585801720" tvg-name="BALK | CINE+ SELECT 4 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 4 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1585801720b4a8fac1b549
+#EXTINF:-1 tvg-id="1318827435" tvg-name="BALK | PINK LOL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK LOL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1318827435b4a8fac1b549
+#EXTINF:-1 tvg-id="2776919121" tvg-name="BALK | CINEMAX (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMAX (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2776919121b4a8fac1b549
+#EXTINF:-1 tvg-id="1343128228" tvg-name="BALK | ARENA SPORT 4 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 4 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1343128228b4a8fac1b549
+#EXTINF:-1 tvg-id="3303212238" tvg-name="BALK | ARENA SPORT 4 SRB (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 4 SRB (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3303212238b4a8fac1b549
+#EXTINF:-1 tvg-id="317628120" tvg-name="BALK | PINK HORROR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK HORROR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=317628120b4a8fac1b549
+#EXTINF:-1 tvg-id="1253444189" tvg-name="BALK | HBO 3 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO 3 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1253444189b4a8fac1b549
+#EXTINF:-1 tvg-id="3872518463" tvg-name="BALK | EUROSPORT 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EUROSPORT 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3872518463b4a8fac1b549
+#EXTINF:-1 tvg-id="2587266077" tvg-name="BALK | AXN (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AXN (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2587266077b4a8fac1b549
+#EXTINF:-1 tvg-id="4087852378" tvg-name="BALK | CINESTAR TV 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4087852378b4a8fac1b549
+#EXTINF:-1 tvg-id="2174124399" tvg-name="BALK | FILMBOX EXTRA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FILMBOX EXTRA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2174124399b4a8fac1b549
+#EXTINF:-1 tvg-id="360492582" tvg-name="BALK | OBN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | OBN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=360492582b4a8fac1b549
+#EXTINF:-1 tvg-id="109704644" tvg-name="BALK | PINK 3 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK 3 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=109704644b4a8fac1b549
+#EXTINF:-1 tvg-id="2556336719" tvg-name="BALK | DISCOVERY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2556336719b4a8fac1b549
+#EXTINF:-1 tvg-id="1545863727" tvg-name="BALK | BN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1545863727b4a8fac1b549
+#EXTINF:-1 tvg-id="2692901127" tvg-name="BALK | ARENA SPORT 3 SRB (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 3 SRB (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2692901127b4a8fac1b549
+#EXTINF:-1 tvg-id="1348777290" tvg-name="BALK | N1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | N1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1348777290b4a8fac1b549
+#EXTINF:-1 tvg-id="123787077" tvg-name="BALK | ARENA SPORT 6 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 6 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=123787077b4a8fac1b549
+#EXTINF:-1 tvg-id="2315061688" tvg-name="BALK | HBO 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2315061688b4a8fac1b549
+#EXTINF:-1 tvg-id="1523289021" tvg-name="BALK | ARENA SPORT 3 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 3 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1523289021b4a8fac1b549
+#EXTINF:-1 tvg-id="3991014499" tvg-name="BALK | ARENA SPORT 10 HR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 10 HR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3991014499b4a8fac1b549
+#EXTINF:-1 tvg-id="2245194560" tvg-name="BALK | AMC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AMC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2245194560b4a8fac1b549
+#EXTINF:-1 tvg-id="3086581060" tvg-name="BALK | ARENA SPORT 2 SRB (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 2 SRB (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3086581060b4a8fac1b549
+#EXTINF:-1 tvg-id="2775951753" tvg-name="BALK | KLASIK TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KLASIK TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2775951753b4a8fac1b549
+#EXTINF:-1 tvg-id="1005182068" tvg-name="BALK | PINK 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1005182068b4a8fac1b549
+#EXTINF:-1 tvg-id="3991066176" tvg-name="BALK | ELITA8 LIVE 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ELITA8 LIVE 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3991066176b4a8fac1b549
+#EXTINF:-1 tvg-id="2107671589" tvg-name="BALK | ARENA SPORT 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2107671589b4a8fac1b549
+#EXTINF:-1 tvg-id="1308238993" tvg-name="BALK | SPORT KLUB 5 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 5 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1308238993b4a8fac1b549
+#EXTINF:-1 tvg-id="2742070672" tvg-name="BALK | RTL CRIME (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL CRIME (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2742070672b4a8fac1b549
+#EXTINF:-1 tvg-id="3378858921" tvg-name="BALK | PINK 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3378858921b4a8fac1b549
+#EXTINF:-1 tvg-id="1153957703" tvg-name="BALK | PINK FILM (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FILM (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1153957703b4a8fac1b549
+#EXTINF:-1 tvg-id="2399508677" tvg-name="BALK | ZADRUGA 4 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ZADRUGA 4 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2399508677b4a8fac1b549
+#EXTINF:-1 tvg-id="2407994631" tvg-name="BALK | PINK M (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK M (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2407994631b4a8fac1b549
+#EXTINF:-1 tvg-id="2458397073" tvg-name="BALK | CINESTAR TV PREMIERE 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV PREMIERE 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2458397073b4a8fac1b549
+#EXTINF:-1 tvg-id="2333021344" tvg-name="BALK | PINK BH (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK BH (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2333021344b4a8fac1b549
+#EXTINF:-1 tvg-id="2946833751" tvg-name="BALK | HGTV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HGTV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2946833751b4a8fac1b549
+#EXTINF:-1 tvg-id="1052273473" tvg-name="BALK | SPORT KLUB 4 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 4 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1052273473b4a8fac1b549
+#EXTINF:-1 tvg-id="1631085200" tvg-name="BALK | ALJAZEERA BALKANS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ALJAZEERA BALKANS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1631085200b4a8fac1b549
+#EXTINF:-1 tvg-id="2538406656" tvg-name="BALK | VIASAT EXPLORE (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT EXPLORE (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2538406656b4a8fac1b549
+#EXTINF:-1 tvg-id="2934104722" tvg-name="BALK | FOX (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2934104722b4a8fac1b549
+#EXTINF:-1 tvg-id="3780174251" tvg-name="BALK | CINESTAR (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3780174251b4a8fac1b549
+#EXTINF:-1 tvg-id="2507990858" tvg-name="BALK | PINK ZABAVA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK ZABAVA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2507990858b4a8fac1b549
+#EXTINF:-1 tvg-id="165468085" tvg-name="BALK | HAYAT PLUS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT PLUS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=165468085b4a8fac1b549
+#EXTINF:-1 tvg-id="2824290269" tvg-name="BALK | PINK FOLK (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FOLK (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2824290269b4a8fac1b549
+#EXTINF:-1 tvg-id="3573600116" tvg-name="BALK | PINK KONCERT (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK KONCERT (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3573600116b4a8fac1b549
+#EXTINF:-1 tvg-id="4156595885" tvg-name="BALK | PINK FOLK 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FOLK 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4156595885b4a8fac1b549
+#EXTINF:-1 tvg-id="926783964" tvg-name="BALK | DIVA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DIVA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=926783964b4a8fac1b549
+#EXTINF:-1 tvg-id="3549958285" tvg-name="BALK | ARENA SPORT 5 SRB (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 5 SRB (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3549958285b4a8fac1b549
+#EXTINF:-1 tvg-id="2959139965" tvg-name="BALK | PINK FOLK 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FOLK 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2959139965b4a8fac1b549
+#EXTINF:-1 tvg-id="1906574408" tvg-name="BALK | SPORT KLUB GOLF (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB GOLF (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1906574408b4a8fac1b549
+#EXTINF:-1 tvg-id="3828451451" tvg-name="BALK | HBO 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3828451451b4a8fac1b549
+#EXTINF:-1 tvg-id="1375797154" tvg-name="BALK | PINK FASHION (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FASHION (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1375797154b4a8fac1b549
+#EXTINF:-1 tvg-id="1475437684" tvg-name="BALK | PINK HORROR (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK HORROR (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1475437684b4a8fac1b549
+#EXTINF:-1 tvg-id="2826018474" tvg-name="BALK | N1 SRB (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | N1 SRB (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2826018474b4a8fac1b549
+#EXTINF:-1 tvg-id="802245103" tvg-name="BALK | 24 KITCHEN (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | 24 KITCHEN (7)
+http://192.168.1.60:8080/Rokkr.php?ID=802245103b4a8fac1b549
+#EXTINF:-1 tvg-id="1025852629" tvg-name="BALK | ZADRUGA 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ZADRUGA 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1025852629b4a8fac1b549
+#EXTINF:-1 tvg-id="1642864249" tvg-name="BALK | PINK ROMANCE (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK ROMANCE (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1642864249b4a8fac1b549
+#EXTINF:-1 tvg-id="1989623711" tvg-name="BALK | CINEMAX 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMAX 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1989623711b4a8fac1b549
+#EXTINF:-1 tvg-id="366694651" tvg-name="BALK | PINK CLASSIC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK CLASSIC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=366694651b4a8fac1b549
+#EXTINF:-1 tvg-id="1868891312" tvg-name="BALK | CINESTAR FANTASY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR FANTASY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1868891312b4a8fac1b549
+#EXTINF:-1 tvg-id="3576189761" tvg-name="BALK | CINESTAR TV PREMIERE 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV PREMIERE 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3576189761b4a8fac1b549
+#EXTINF:-1 tvg-id="1005969581" tvg-name="BALK | HAYAT 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1005969581b4a8fac1b549
+#EXTINF:-1 tvg-id="861731842" tvg-name="BALK | M1 FILM (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | M1 FILM (7)
+http://192.168.1.60:8080/Rokkr.php?ID=861731842b4a8fac1b549
+#EXTINF:-1 tvg-id="54647568" tvg-name="BALK | HISTORY 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HISTORY 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=54647568b4a8fac1b549
+#EXTINF:-1 tvg-id="2233020299" tvg-name="BALK | EURO CINEMA 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EURO CINEMA 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2233020299b4a8fac1b549
+#EXTINF:-1 tvg-id="240416575" tvg-name="BALK | PRVA WORLD TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PRVA WORLD TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=240416575b4a8fac1b549
+#EXTINF:-1 tvg-id="3963699480" tvg-name="BALK | PINK KIDS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK KIDS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3963699480b4a8fac1b549
+#EXTINF:-1 tvg-id="469885336" tvg-name="BALK | PINK SUPER KIDS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SUPER KIDS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=469885336b4a8fac1b549
+#EXTINF:-1 tvg-id="3221509248" tvg-name="BALK | UNA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | UNA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3221509248b4a8fac1b549
+#EXTINF:-1 tvg-id="852536790" tvg-name="BALK | STAR CRIME (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | STAR CRIME (6)
+http://192.168.1.60:8080/Rokkr.php?ID=852536790b4a8fac1b549
+#EXTINF:-1 tvg-id="3842226300" tvg-name="BALK | TV GLAS DRINE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV GLAS DRINE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3842226300b4a8fac1b549
+#EXTINF:-1 tvg-id="2231709942" tvg-name="BALK | PINK PEDIA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK PEDIA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2231709942b4a8fac1b549
+#EXTINF:-1 tvg-id="1246262761" tvg-name="BALK | NICKELODEON HR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICKELODEON HR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1246262761b4a8fac1b549
+#EXTINF:-1 tvg-id="1081537963" tvg-name="BALK | MOJA TV PREMIJER LIGA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MOJA TV PREMIJER LIGA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1081537963b4a8fac1b549
+#EXTINF:-1 tvg-id="3444914860" tvg-name="BALK | VIASAT HISTORY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT HISTORY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3444914860b4a8fac1b549
+#EXTINF:-1 tvg-id="1047810031" tvg-name="BALK | RTS DRAMA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS DRAMA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1047810031b4a8fac1b549
+#EXTINF:-1 tvg-id="428491796" tvg-name="BALK | MASA I MEDO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MASA I MEDO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=428491796b4a8fac1b549
+#EXTINF:-1 tvg-id="543917900" tvg-name="BALK | NICKELODEON HR (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICKELODEON HR (1)
+http://192.168.1.60:8080/Rokkr.php?ID=543917900b4a8fac1b549
+#EXTINF:-1 tvg-id="2899636515" tvg-name="BALK | TV 1000 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV 1000 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2899636515b4a8fac1b549
+#EXTINF:-1 tvg-id="2324453958" tvg-name="BALK | LOV I RIBOLOV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | LOV I RIBOLOV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2324453958b4a8fac1b549
+#EXTINF:-1 tvg-id="506589367" tvg-name="BALK | RTS TREZOR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS TREZOR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=506589367b4a8fac1b549
+#EXTINF:-1 tvg-id="392740988" tvg-name="BALK | TV SLON EXTRA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV SLON EXTRA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=392740988b4a8fac1b549
+#EXTINF:-1 tvg-id="2975285148" tvg-name="BALK | TV 5 ISLAM (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV 5 ISLAM (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2975285148b4a8fac1b549
+#EXTINF:-1 tvg-id="1045294698" tvg-name="BALK | FILMBOX (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FILMBOX (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1045294698b4a8fac1b549
+#EXTINF:-1 tvg-id="2552855542" tvg-name="BALK | PINK CLASSIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK CLASSIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2552855542b4a8fac1b549
+#EXTINF:-1 tvg-id="2189044746" tvg-name="BALK | NICKTOONS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICKTOONS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2189044746b4a8fac1b549
+#EXTINF:-1 tvg-id="3961402740" tvg-name="BALK | PINK ROMANCE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK ROMANCE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3961402740b4a8fac1b549
+#EXTINF:-1 tvg-id="572109402" tvg-name="BALK | ALFA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ALFA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=572109402b4a8fac1b549
+#EXTINF:-1 tvg-id="1846596197" tvg-name="BALK | DISNEY CHANEL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISNEY CHANEL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1846596197b4a8fac1b549
+#EXTINF:-1 tvg-id="3093326914" tvg-name="BALK | DISNEY CHANNEL (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISNEY CHANNEL (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3093326914b4a8fac1b549
+#EXTINF:-1 tvg-id="1645162648" tvg-name="BALK | SPORT TV 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT TV 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1645162648b4a8fac1b549
+#EXTINF:-1 tvg-id="1773133498" tvg-name="BALK | SUPER STAR TV HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SUPER STAR TV HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1773133498b4a8fac1b549
+#EXTINF:-1 tvg-id="3144317054" tvg-name="BALK | HAYAT (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3144317054b4a8fac1b549
+#EXTINF:-1 tvg-id="805398492" tvg-name="BALK | FACE TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FACE TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=805398492b4a8fac1b549
+#EXTINF:-1 tvg-id="2358818641" tvg-name="BALK | SPORT KLUB 3 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 3 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2358818641b4a8fac1b549
+#EXTINF:-1 tvg-id="2708573167" tvg-name="BALK | EUROSPORT 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EUROSPORT 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2708573167b4a8fac1b549
+#EXTINF:-1 tvg-id="3267023153" tvg-name="BALK | SPORT KLUB 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3267023153b4a8fac1b549
+#EXTINF:-1 tvg-id="2426400935" tvg-name="BALK | HRT 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HRT 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2426400935b4a8fac1b549
+#EXTINF:-1 tvg-id="4292540545" tvg-name="BALK | SPORT KLUB 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4292540545b4a8fac1b549
+#EXTINF:-1 tvg-id="2074791740" tvg-name="BALK | SPORT KLUB 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2074791740b4a8fac1b549
+#EXTINF:-1 tvg-id="50943656" tvg-name="BALK | PRVA TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PRVA TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=50943656b4a8fac1b549
+#EXTINF:-1 tvg-id="3470043142" tvg-name="BALK | NOVA M (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NOVA M (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3470043142b4a8fac1b549
+#EXTINF:-1 tvg-id="2985860833" tvg-name="BALK | SPORT KLUB 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2985860833b4a8fac1b549
+#EXTINF:-1 tvg-id="4006016167" tvg-name="BALK | RTRS TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTRS TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4006016167b4a8fac1b549
+#EXTINF:-1 tvg-id="3999207369" tvg-name="BALK | CINEMANIA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMANIA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3999207369b4a8fac1b549
+#EXTINF:-1 tvg-id="237557944" tvg-name="BALK | PINK FILM (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FILM (1)
+http://192.168.1.60:8080/Rokkr.php?ID=237557944b4a8fac1b549
+#EXTINF:-1 tvg-id="3265703113" tvg-name="BALK | BHT 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BHT 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3265703113b4a8fac1b549
+#EXTINF:-1 tvg-id="106979797" tvg-name="BALK | FEDERALNA TELEVIZIJA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FEDERALNA TELEVIZIJA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=106979797b4a8fac1b549
+#EXTINF:-1 tvg-id="500020483" tvg-name="BALK | PINK PLUS (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK PLUS (1)
+http://192.168.1.60:8080/Rokkr.php?ID=500020483b4a8fac1b549
+#EXTINF:-1 tvg-id="949584386" tvg-name="BALK | FEDERALNA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FEDERALNA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=949584386b4a8fac1b549
+#EXTINF:-1 tvg-id="21335052" tvg-name="BALK | HISTORY 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HISTORY 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=21335052b4a8fac1b549
+#EXTINF:-1 tvg-id="695607960" tvg-name="BALK | MTV IGMAN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MTV IGMAN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=695607960b4a8fac1b549
+#EXTINF:-1 tvg-id="1061880403" tvg-name="BALK | BN2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BN2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1061880403b4a8fac1b549
+#EXTINF:-1 tvg-id="3630683467" tvg-name="BALK | BALKAN TRIP (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BALKAN TRIP (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3630683467b4a8fac1b549
+#EXTINF:-1 tvg-id="1939231416" tvg-name="BALK | NATIONAL GEOGRAPHIC HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NATIONAL GEOGRAPHIC HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1939231416b4a8fac1b549
+#EXTINF:-1 tvg-id="1212461086" tvg-name="BALK | DIVA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DIVA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1212461086b4a8fac1b549
+#EXTINF:-1 tvg-id="1889144097" tvg-name="BALK | SPORT KLUB 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1889144097b4a8fac1b549
+#EXTINF:-1 tvg-id="608516760" tvg-name="BALK | CINE+ SELECT 6 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 6 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=608516760b4a8fac1b549
+#EXTINF:-1 tvg-id="2942971146" tvg-name="BALK | BHT 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BHT 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2942971146b4a8fac1b549
+#EXTINF:-1 tvg-id="2864254785" tvg-name="BALK | RTS 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2864254785b4a8fac1b549
+#EXTINF:-1 tvg-id="3051675542" tvg-name="BALK | PINK COMEDY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK COMEDY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3051675542b4a8fac1b549
+#EXTINF:-1 tvg-id="3970282984" tvg-name="BALK | CINE+ SELECT 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3970282984b4a8fac1b549
+#EXTINF:-1 tvg-id="1572807593" tvg-name="BALK | PINK THRILLER (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK THRILLER (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1572807593b4a8fac1b549
+#EXTINF:-1 tvg-id="3274058933" tvg-name="BALK | DM SAT (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DM SAT (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3274058933b4a8fac1b549
+#EXTINF:-1 tvg-id="329503571" tvg-name="BALK | CINEMAX 2 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMAX 2 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=329503571b4a8fac1b549
+#EXTINF:-1 tvg-id="490769929" tvg-name="BALK | BN MUSIC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BN MUSIC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=490769929b4a8fac1b549
+#EXTINF:-1 tvg-id="4257106942" tvg-name="BALK | FOX MOVIES (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX MOVIES (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4257106942b4a8fac1b549
+#EXTINF:-1 tvg-id="2309828666" tvg-name="BALK | PINK SCI FI & FANTASY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SCI FI & FANTASY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2309828666b4a8fac1b549
+#EXTINF:-1 tvg-id="4093993497" tvg-name="BALK | PINK 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4093993497b4a8fac1b549
+#EXTINF:-1 tvg-id="2497251648" tvg-name="BALK | PINK PLUS TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK PLUS TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2497251648b4a8fac1b549
+#EXTINF:-1 tvg-id="1354766451" tvg-name="BALK | PINK BH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK BH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1354766451b4a8fac1b549
+#EXTINF:-1 tvg-id="2118074007" tvg-name="BALK | ARENA SPORT 5 [LIVE DURING EVENTS ONLY] (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ARENA SPORT 5 [LIVE DURING EVENTS ONLY] (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2118074007b4a8fac1b549
+#EXTINF:-1 tvg-id="1283826463" tvg-name="BALK | AMC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AMC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1283826463b4a8fac1b549
+#EXTINF:-1 tvg-id="1165363416" tvg-name="BALK | ALTERNATIVNA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ALTERNATIVNA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1165363416b4a8fac1b549
+#EXTINF:-1 tvg-id="587942529" tvg-name="BALK | 24 KITCHEN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | 24 KITCHEN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=587942529b4a8fac1b549
+#EXTINF:-1 tvg-id="1525351276" tvg-name="BALK | HBO HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1525351276b4a8fac1b549
+#EXTINF:-1 tvg-id="4549989" tvg-name="BALK | ZADRUGA 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ZADRUGA 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4549989b4a8fac1b549
+#EXTINF:-1 tvg-id="3061453431" tvg-name="BALK | RTCG 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTCG 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3061453431b4a8fac1b549
+#EXTINF:-1 tvg-id="2168918882" tvg-name="BALK | ANIMAL PLANET (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ANIMAL PLANET (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2168918882b4a8fac1b549
+#EXTINF:-1 tvg-id="1561391128" tvg-name="BALK | BBC EARTH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BBC EARTH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1561391128b4a8fac1b549
+#EXTINF:-1 tvg-id="1334542737" tvg-name="BALK | PINK CRIME & MYSTERY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK CRIME & MYSTERY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1334542737b4a8fac1b549
+#EXTINF:-1 tvg-id="858477141" tvg-name="BALK | DISCOVERY ID (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY ID (7)
+http://192.168.1.60:8080/Rokkr.php?ID=858477141b4a8fac1b549
+#EXTINF:-1 tvg-id="446208285" tvg-name="BALK | BN MUSIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BN MUSIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=446208285b4a8fac1b549
+#EXTINF:-1 tvg-id="1473638588" tvg-name="BALK | CRIME+ INVESTIGATION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CRIME+ INVESTIGATION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1473638588b4a8fac1b549
+#EXTINF:-1 tvg-id="3896095046" tvg-name="BALK | O KANAL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | O KANAL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3896095046b4a8fac1b549
+#EXTINF:-1 tvg-id="534709511" tvg-name="BALK | HRT 4 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HRT 4 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=534709511b4a8fac1b549
+#EXTINF:-1 tvg-id="2112036279" tvg-name="BALK | NAT GEO WILD (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NAT GEO WILD (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2112036279b4a8fac1b549
+#EXTINF:-1 tvg-id="993512041" tvg-name="BALK | CINESTAR PREMIERE 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR PREMIERE 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=993512041b4a8fac1b549
+#EXTINF:-1 tvg-id="1761826370" tvg-name="BALK | HISTORY CHANNEL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HISTORY CHANNEL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1761826370b4a8fac1b549
+#EXTINF:-1 tvg-id="2983585576" tvg-name="BALK | RTL LIVING (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL LIVING (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2983585576b4a8fac1b549
+#EXTINF:-1 tvg-id="822301016" tvg-name="BALK | NAT GEO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NAT GEO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=822301016b4a8fac1b549
+#EXTINF:-1 tvg-id="3243625503" tvg-name="BALK | FOX LIFE (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX LIFE (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3243625503b4a8fac1b549
+#EXTINF:-1 tvg-id="2090315961" tvg-name="BALK | CINESTAR PREMIERE 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR PREMIERE 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2090315961b4a8fac1b549
+#EXTINF:-1 tvg-id="421860136" tvg-name="BALK | CINE+ SELECT 7 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINE+ SELECT 7 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=421860136b4a8fac1b549
+#EXTINF:-1 tvg-id="2183237728" tvg-name="BALK | FOX MOVIES (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX MOVIES (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2183237728b4a8fac1b549
+#EXTINF:-1 tvg-id="2398384130" tvg-name="BALK | BALKANIKA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BALKANIKA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2398384130b4a8fac1b549
+#EXTINF:-1 tvg-id="3892334137" tvg-name="BALK | PINK SUPER KIDS (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SUPER KIDS (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3892334137b4a8fac1b549
+#EXTINF:-1 tvg-id="4049881232" tvg-name="BALK | FOX MOVIES (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX MOVIES (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4049881232b4a8fac1b549
+#EXTINF:-1 tvg-id="1086525812" tvg-name="BALK | NICK JR (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICK JR (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1086525812b4a8fac1b549
+#EXTINF:-1 tvg-id="2913748672" tvg-name="BALK | ANIMAL PLANET (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ANIMAL PLANET (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2913748672b4a8fac1b549
+#EXTINF:-1 tvg-id="381504600" tvg-name="BALK | GRAND 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | GRAND 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=381504600b4a8fac1b549
+#EXTINF:-1 tvg-id="3554318857" tvg-name="BALK | FOX (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3554318857b4a8fac1b549
+#EXTINF:-1 tvg-id="3688766735" tvg-name="BALK | RTS SVET (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS SVET (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3688766735b4a8fac1b549
+#EXTINF:-1 tvg-id="3000984577" tvg-name="BALK | PINK FOLK 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FOLK 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3000984577b4a8fac1b549
+#EXTINF:-1 tvg-id="1749341885" tvg-name="BALK | OBN (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | OBN (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1749341885b4a8fac1b549
+#EXTINF:-1 tvg-id="3210378316" tvg-name="BALK | PINK SERIJE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SERIJE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3210378316b4a8fac1b549
+#EXTINF:-1 tvg-id="4204456808" tvg-name="BALK | PINK PEDIA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK PEDIA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4204456808b4a8fac1b549
+#EXTINF:-1 tvg-id="928517033" tvg-name="BALK | RTRS PLUS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTRS PLUS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=928517033b4a8fac1b549
+#EXTINF:-1 tvg-id="2367813923" tvg-name="BALK | IZVORNA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | IZVORNA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2367813923b4a8fac1b549
+#EXTINF:-1 tvg-id="2808803907" tvg-name="BALK | RTV CAZIN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV CAZIN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2808803907b4a8fac1b549
+#EXTINF:-1 tvg-id="788826952" tvg-name="BALK | RTCG SAT (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTCG SAT (7)
+http://192.168.1.60:8080/Rokkr.php?ID=788826952b4a8fac1b549
+#EXTINF:-1 tvg-id="3043680288" tvg-name="BALK | SPORT KLUB 8 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 8 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3043680288b4a8fac1b549
+#EXTINF:-1 tvg-id="3191034074" tvg-name="BALK | NAT GEO WILD (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NAT GEO WILD (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3191034074b4a8fac1b549
+#EXTINF:-1 tvg-id="4118748881" tvg-name="BALK | PINK FOLK 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FOLK 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4118748881b4a8fac1b549
+#EXTINF:-1 tvg-id="1778938190" tvg-name="BALK | DOKU TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOKU TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1778938190b4a8fac1b549
+#EXTINF:-1 tvg-id="777626841" tvg-name="BALK | AXN (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AXN (1)
+http://192.168.1.60:8080/Rokkr.php?ID=777626841b4a8fac1b549
+#EXTINF:-1 tvg-id="1488837929" tvg-name="BALK | SCIFI (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SCIFI (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1488837929b4a8fac1b549
+#EXTINF:-1 tvg-id="3988084672" tvg-name="BALK | DISCOVERY CHANNEL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY CHANNEL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3988084672b4a8fac1b549
+#EXTINF:-1 tvg-id="2919225623" tvg-name="BALK | HRT 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HRT 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2919225623b4a8fac1b549
+#EXTINF:-1 tvg-id="2809579529" tvg-name="BALK | VIASAT HISTORY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT HISTORY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2809579529b4a8fac1b549
+#EXTINF:-1 tvg-id="2981047212" tvg-name="BALK | SCIFI (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SCIFI (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2981047212b4a8fac1b549
+#EXTINF:-1 tvg-id="2107037648" tvg-name="BALK | LOONEY TUNES (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | LOONEY TUNES (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2107037648b4a8fac1b549
+#EXTINF:-1 tvg-id="2308335794" tvg-name="BALK | MTV HITS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MTV HITS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2308335794b4a8fac1b549
+#EXTINF:-1 tvg-id="1464267314" tvg-name="BALK | TV VIJESTI CG (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV VIJESTI CG (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1464267314b4a8fac1b549
+#EXTINF:-1 tvg-id="2708798092" tvg-name="BALK | RTL CRIME (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL CRIME (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2708798092b4a8fac1b549
+#EXTINF:-1 tvg-id="4251906469" tvg-name="BALK | VIASAT EXPLORE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT EXPLORE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4251906469b4a8fac1b549
+#EXTINF:-1 tvg-id="2710949016" tvg-name="BALK | LOV I RIBOLOV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | LOV I RIBOLOV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2710949016b4a8fac1b549
+#EXTINF:-1 tvg-id="2230799510" tvg-name="BALK | VIASAT EXPLORE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT EXPLORE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2230799510b4a8fac1b549
+#EXTINF:-1 tvg-id="333385274" tvg-name="BALK | MAXCRO SELECT 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MAXCRO SELECT 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=333385274b4a8fac1b549
+#EXTINF:-1 tvg-id="3457822370" tvg-name="BALK | TV GLAS DRINE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV GLAS DRINE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3457822370b4a8fac1b549
+#EXTINF:-1 tvg-id="2796447463" tvg-name="BALK | PINK KIDS (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK KIDS (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2796447463b4a8fac1b549
+#EXTINF:-1 tvg-id="2344983146" tvg-name="BALK | CMC TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CMC TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2344983146b4a8fac1b549
+#EXTINF:-1 tvg-id="2990523347" tvg-name="BALK | TLC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TLC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2990523347b4a8fac1b549
+#EXTINF:-1 tvg-id="2669560148" tvg-name="BALK | CINESTAR TV 1 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV 1 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2669560148b4a8fac1b549
+#EXTINF:-1 tvg-id="1308205307" tvg-name="BALK | EURO CINEMA 4 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EURO CINEMA 4 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1308205307b4a8fac1b549
+#EXTINF:-1 tvg-id="1762001907" tvg-name="BALK | NICKELODEON (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICKELODEON (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1762001907b4a8fac1b549
+#EXTINF:-1 tvg-id="2853021043" tvg-name="BALK | PINK PREMIUM (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK PREMIUM (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2853021043b4a8fac1b549
+#EXTINF:-1 tvg-id="4292443371" tvg-name="BALK | EURO CINEMA 3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EURO CINEMA 3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4292443371b4a8fac1b549
+#EXTINF:-1 tvg-id="2180774477" tvg-name="BALK | IZVORNA TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | IZVORNA TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2180774477b4a8fac1b549
+#EXTINF:-1 tvg-id="1571019946" tvg-name="BALK | KLAPE I TAMBURE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KLAPE I TAMBURE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1571019946b4a8fac1b549
+#EXTINF:-1 tvg-id="3010203301" tvg-name="BALK | VIASAT EXPLORER (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT EXPLORER (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3010203301b4a8fac1b549
+#EXTINF:-1 tvg-id="2096109922" tvg-name="BALK | TOXIC (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TOXIC (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2096109922b4a8fac1b549
+#EXTINF:-1 tvg-id="2627730330" tvg-name="BALK | MAXCRO SELECT 4 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MAXCRO SELECT 4 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2627730330b4a8fac1b549
+#EXTINF:-1 tvg-id="1595188996" tvg-name="BALK | BBC EARTH (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BBC EARTH (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1595188996b4a8fac1b549
+#EXTINF:-1 tvg-id="330188485" tvg-name="BALK | EUROSPORT 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EUROSPORT 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=330188485b4a8fac1b549
+#EXTINF:-1 tvg-id="1057811851" tvg-name="BALK | CINESTAR PREMIERE 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR PREMIERE 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1057811851b4a8fac1b549
+#EXTINF:-1 tvg-id="4134849174" tvg-name="BALK | RTL PLUS (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL PLUS (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4134849174b4a8fac1b549
+#EXTINF:-1 tvg-id="1008132296" tvg-name="BALK | RTS ZIVOT (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS ZIVOT (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1008132296b4a8fac1b549
+#EXTINF:-1 tvg-id="4138302100" tvg-name="BALK | HAYAT FOLK (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT FOLK (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4138302100b4a8fac1b549
+#EXTINF:-1 tvg-id="3473390408" tvg-name="BALK | TLC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TLC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3473390408b4a8fac1b549
+#EXTINF:-1 tvg-id="2996132298" tvg-name="BALK | STAR CHANNEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | STAR CHANNEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2996132298b4a8fac1b549
+#EXTINF:-1 tvg-id="4236308356" tvg-name="BALK | FOX CRIME (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX CRIME (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4236308356b4a8fac1b549
+#EXTINF:-1 tvg-id="1228302300" tvg-name="BALK | FOX LIFE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX LIFE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1228302300b4a8fac1b549
+#EXTINF:-1 tvg-id="2764286316" tvg-name="BALK | RTL PASSION (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL PASSION (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2764286316b4a8fac1b549
+#EXTINF:-1 tvg-id="2748963032" tvg-name="BALK | TELEVIZIJA 5 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TELEVIZIJA 5 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2748963032b4a8fac1b549
+#EXTINF:-1 tvg-id="858985043" tvg-name="BALK | CINEMAX 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMAX 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=858985043b4a8fac1b549
+#EXTINF:-1 tvg-id="1795614240" tvg-name="BALK | PRVA MAX (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PRVA MAX (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1795614240b4a8fac1b549
+#EXTINF:-1 tvg-id="2481382455" tvg-name="BALK | PINK KUVAR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK KUVAR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2481382455b4a8fac1b549
+#EXTINF:-1 tvg-id="2690470424" tvg-name="BALK | MINIMAX (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MINIMAX (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2690470424b4a8fac1b549
+#EXTINF:-1 tvg-id="825705807" tvg-name="BALK | CINEMAX 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMAX 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=825705807b4a8fac1b549
+#EXTINF:-1 tvg-id="2292980296" tvg-name="BALK | TOP TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TOP TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2292980296b4a8fac1b549
+#EXTINF:-1 tvg-id="1998323184" tvg-name="BALK | TV 1000 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV 1000 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1998323184b4a8fac1b549
+#EXTINF:-1 tvg-id="443724116" tvg-name="BALK | TOM AND JERRY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TOM AND JERRY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=443724116b4a8fac1b549
+#EXTINF:-1 tvg-id="3939261835" tvg-name="BALK | NAT GEO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NAT GEO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3939261835b4a8fac1b549
+#EXTINF:-1 tvg-id="532341749" tvg-name="BALK | TV USK (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV USK (6)
+http://192.168.1.60:8080/Rokkr.php?ID=532341749b4a8fac1b549
+#EXTINF:-1 tvg-id="2383601048" tvg-name="BALK | JUGOTON TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | JUGOTON TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2383601048b4a8fac1b549
+#EXTINF:-1 tvg-id="2249984707" tvg-name="BALK | HBO 2 HD (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO 2 HD (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2249984707b4a8fac1b549
+#EXTINF:-1 tvg-id="1392680291" tvg-name="BALK | KINO TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KINO TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1392680291b4a8fac1b549
+#EXTINF:-1 tvg-id="1956244714" tvg-name="BALK | TV K3 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV K3 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1956244714b4a8fac1b549
+#EXTINF:-1 tvg-id="3876516998" tvg-name="BALK | AXN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AXN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3876516998b4a8fac1b549
+#EXTINF:-1 tvg-id="4071939005" tvg-name="BALK | RED TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RED TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4071939005b4a8fac1b549
+#EXTINF:-1 tvg-id="1788977439" tvg-name="BALK | HAHA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAHA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1788977439b4a8fac1b549
+#EXTINF:-1 tvg-id="3865028858" tvg-name="BALK | MAXCRO SELECT 6 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MAXCRO SELECT 6 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3865028858b4a8fac1b549
+#EXTINF:-1 tvg-id="1791418334" tvg-name="BALK | BRAVO MUSIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BRAVO MUSIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1791418334b4a8fac1b549
+#EXTINF:-1 tvg-id="789293011" tvg-name="BALK | IDJ TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | IDJ TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=789293011b4a8fac1b549
+#EXTINF:-1 tvg-id="754651832" tvg-name="BALK | RTV VISOKO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV VISOKO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=754651832b4a8fac1b549
+#EXTINF:-1 tvg-id="700411465" tvg-name="BALK | PRVA PLUS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PRVA PLUS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=700411465b4a8fac1b549
+#EXTINF:-1 tvg-id="1348369557" tvg-name="BALK | HAYAT FOLK BOX (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT FOLK BOX (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1348369557b4a8fac1b549
+#EXTINF:-1 tvg-id="3863662541" tvg-name="BALK | CINEMA TV BH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMA TV BH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3863662541b4a8fac1b549
+#EXTINF:-1 tvg-id="3636345732" tvg-name="BALK | CINESTAR TV 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINESTAR TV 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3636345732b4a8fac1b549
+#EXTINF:-1 tvg-id="1858421691" tvg-name="BALK | PINK BRAVO (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK BRAVO (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1858421691b4a8fac1b549
+#EXTINF:-1 tvg-id="3723378765" tvg-name="BALK | NICKJR HR (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICKJR HR (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3723378765b4a8fac1b549
+#EXTINF:-1 tvg-id="786558223" tvg-name="BALK | O KANAL MUSIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | O KANAL MUSIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=786558223b4a8fac1b549
+#EXTINF:-1 tvg-id="2373884218" tvg-name="BALK | LOV I RIBOLOV (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | LOV I RIBOLOV (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2373884218b4a8fac1b549
+#EXTINF:-1 tvg-id="3251758357" tvg-name="BALK | RTL KOCKICA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL KOCKICA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3251758357b4a8fac1b549
+#EXTINF:-1 tvg-id="3222785648" tvg-name="BALK | DOCUBOX (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOCUBOX (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3222785648b4a8fac1b549
+#EXTINF:-1 tvg-id="3759973215" tvg-name="BALK | DISCOVERY WORLD (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY WORLD (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3759973215b4a8fac1b549
+#EXTINF:-1 tvg-id="4274183762" tvg-name="BALK | VIASAT NATURE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT NATURE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=4274183762b4a8fac1b549
+#EXTINF:-1 tvg-id="2786546292" tvg-name="BALK | MINI TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MINI TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2786546292b4a8fac1b549
+#EXTINF:-1 tvg-id="4201794202" tvg-name="BALK | CARTOON NETWORK (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CARTOON NETWORK (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4201794202b4a8fac1b549
+#EXTINF:-1 tvg-id="1500452507" tvg-name="BALK | MAXCRO SELECT 8 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MAXCRO SELECT 8 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1500452507b4a8fac1b549
+#EXTINF:-1 tvg-id="3166119033" tvg-name="BALK | BABY TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | BABY TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3166119033b4a8fac1b549
+#EXTINF:-1 tvg-id="3149793644" tvg-name="BALK | OTV VALENTINO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | OTV VALENTINO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3149793644b4a8fac1b549
+#EXTINF:-1 tvg-id="1016762712" tvg-name="BALK | RTL ADRIA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL ADRIA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1016762712b4a8fac1b549
+#EXTINF:-1 tvg-id="2059729489" tvg-name="BALK | MTV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MTV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2059729489b4a8fac1b549
+#EXTINF:-1 tvg-id="1022425106" tvg-name="BALK | TV SARAJEVO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV SARAJEVO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1022425106b4a8fac1b549
+#EXTINF:-1 tvg-id="2738118545" tvg-name="BALK | SEVDAH TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SEVDAH TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2738118545b4a8fac1b549
+#EXTINF:-1 tvg-id="2426904498" tvg-name="BALK | OTV VALENTINO (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | OTV VALENTINO (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2426904498b4a8fac1b549
+#EXTINF:-1 tvg-id="1583059029" tvg-name="BALK | SPORTSKA TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORTSKA TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1583059029b4a8fac1b549
+#EXTINF:-1 tvg-id="134098158" tvg-name="BALK | RTV ZENICA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV ZENICA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=134098158b4a8fac1b549
+#EXTINF:-1 tvg-id="3496156646" tvg-name="BALK | PINK ZABAVA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK ZABAVA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3496156646b4a8fac1b549
+#EXTINF:-1 tvg-id="3016725456" tvg-name="BALK | TV SEVDAH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV SEVDAH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3016725456b4a8fac1b549
+#EXTINF:-1 tvg-id="1628980320" tvg-name="BALK | PINK HITS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK HITS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1628980320b4a8fac1b549
+#EXTINF:-1 tvg-id="1921712595" tvg-name="BALK | TV SLON (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV SLON (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1921712595b4a8fac1b549
+#EXTINF:-1 tvg-id="2070451084" tvg-name="BALK | TLC (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TLC (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2070451084b4a8fac1b549
+#EXTINF:-1 tvg-id="926578673" tvg-name="BALK | SPORT KLUB 7 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB 7 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=926578673b4a8fac1b549
+#EXTINF:-1 tvg-id="2317581732" tvg-name="BALK | PINK EXTRA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK EXTRA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2317581732b4a8fac1b549
+#EXTINF:-1 tvg-id="4057622695" tvg-name="BALK | RTCG 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTCG 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4057622695b4a8fac1b549
+#EXTINF:-1 tvg-id="1019415557" tvg-name="BALK | PINK HAHA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK HAHA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1019415557b4a8fac1b549
+#EXTINF:-1 tvg-id="467190435" tvg-name="BALK | DOCUBOX (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOCUBOX (7)
+http://192.168.1.60:8080/Rokkr.php?ID=467190435b4a8fac1b549
+#EXTINF:-1 tvg-id="2111332007" tvg-name="BALK | MINI TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MINI TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2111332007b4a8fac1b549
+#EXTINF:-1 tvg-id="1519487790" tvg-name="BALK | RTV SANA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV SANA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1519487790b4a8fac1b549
+#EXTINF:-1 tvg-id="3130225182" tvg-name="BALK | POSAVINA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | POSAVINA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3130225182b4a8fac1b549
+#EXTINF:-1 tvg-id="206145844" tvg-name="BALK | HAYAT MUSIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT MUSIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=206145844b4a8fac1b549
+#EXTINF:-1 tvg-id="4180679982" tvg-name="BALK | VIASAT NATURE (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT NATURE (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4180679982b4a8fac1b549
+#EXTINF:-1 tvg-id="3406290301" tvg-name="BALK | KANAL 6 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KANAL 6 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3406290301b4a8fac1b549
+#EXTINF:-1 tvg-id="1930307647" tvg-name="BALK | RTL KOCKICA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL KOCKICA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1930307647b4a8fac1b549
+#EXTINF:-1 tvg-id="3746124118" tvg-name="BALK | PRVA KICK (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PRVA KICK (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3746124118b4a8fac1b549
+#EXTINF:-1 tvg-id="5192107" tvg-name="BALK | DOBRA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOBRA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=5192107b4a8fac1b549
+#EXTINF:-1 tvg-id="304843368" tvg-name="BALK | SANDZAK TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SANDZAK TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=304843368b4a8fac1b549
+#EXTINF:-1 tvg-id="3688484569" tvg-name="BALK | NICKELODEON (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NICKELODEON (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3688484569b4a8fac1b549
+#EXTINF:-1 tvg-id="2547590897" tvg-name="BALK | RTS 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTS 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2547590897b4a8fac1b549
+#EXTINF:-1 tvg-id="2494427928" tvg-name="BALK | IDJ KIDS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | IDJ KIDS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2494427928b4a8fac1b549
+#EXTINF:-1 tvg-id="3120372067" tvg-name="BALK | CITYPLAY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CITYPLAY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3120372067b4a8fac1b549
+#EXTINF:-1 tvg-id="3587917964" tvg-name="BALK | VIASAT NATURE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VIASAT NATURE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3587917964b4a8fac1b549
+#EXTINF:-1 tvg-id="370959430" tvg-name="BALK | RTL PASSION (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL PASSION (7)
+http://192.168.1.60:8080/Rokkr.php?ID=370959430b4a8fac1b549
+#EXTINF:-1 tvg-id="1410219029" tvg-name="BALK | EUROSPORT 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EUROSPORT 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1410219029b4a8fac1b549
+#EXTINF:-1 tvg-id="817893838" tvg-name="BALK | PINK SHOW (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SHOW (1)
+http://192.168.1.60:8080/Rokkr.php?ID=817893838b4a8fac1b549
+#EXTINF:-1 tvg-id="784279434" tvg-name="BALK | MAXCRO SELECT 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MAXCRO SELECT 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=784279434b4a8fac1b549
+#EXTINF:-1 tvg-id="1179697406" tvg-name="BALK | AXN SPIN (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AXN SPIN (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1179697406b4a8fac1b549
+#EXTINF:-1 tvg-id="546689730" tvg-name="BALK | RTV HERCEG BOSNE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV HERCEG BOSNE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=546689730b4a8fac1b549
+#EXTINF:-1 tvg-id="1678720811" tvg-name="BALK | MAXCRO SELECT 9 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MAXCRO SELECT 9 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1678720811b4a8fac1b549
+#EXTINF:-1 tvg-id="2634892423" tvg-name="BALK | KCN 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KCN 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2634892423b4a8fac1b549
+#EXTINF:-1 tvg-id="2253144925" tvg-name="BALK | HIT BRCKO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HIT BRCKO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2253144925b4a8fac1b549
+#EXTINF:-1 tvg-id="2566968310" tvg-name="BALK | PIKABOO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PIKABOO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2566968310b4a8fac1b549
+#EXTINF:-1 tvg-id="3889340047" tvg-name="BALK | DISCOVERY CI (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY CI (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3889340047b4a8fac1b549
+#EXTINF:-1 tvg-id="2327216525" tvg-name="BALK | SUPER TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SUPER TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2327216525b4a8fac1b549
+#EXTINF:-1 tvg-id="2704279693" tvg-name="BALK | SEVDAH TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SEVDAH TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2704279693b4a8fac1b549
+#EXTINF:-1 tvg-id="494867044" tvg-name="BALK | TRAVEL CHANNEL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TRAVEL CHANNEL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=494867044b4a8fac1b549
+#EXTINF:-1 tvg-id="977098884" tvg-name="BALK | HNTV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HNTV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=977098884b4a8fac1b549
+#EXTINF:-1 tvg-id="2049914417" tvg-name="BALK | PINK SHOW (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SHOW (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2049914417b4a8fac1b549
+#EXTINF:-1 tvg-id="2301026606" tvg-name="BALK | DA VINCI (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DA VINCI (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2301026606b4a8fac1b549
+#EXTINF:-1 tvg-id="429517847" tvg-name="BALK | FOOD NETWORK (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOOD NETWORK (7)
+http://192.168.1.60:8080/Rokkr.php?ID=429517847b4a8fac1b549
+#EXTINF:-1 tvg-id="2322202062" tvg-name="BALK | PEPA PRAŠCIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PEPA PRAŠCIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2322202062b4a8fac1b549
+#EXTINF:-1 tvg-id="3493997669" tvg-name="BALK | PINK STYLE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK STYLE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3493997669b4a8fac1b549
+#EXTINF:-1 tvg-id="287149973" tvg-name="BALK | RTV TK TUZLA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV TK TUZLA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=287149973b4a8fac1b549
+#EXTINF:-1 tvg-id="1635528611" tvg-name="BALK | PINK HITS 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK HITS 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1635528611b4a8fac1b549
+#EXTINF:-1 tvg-id="2834889577" tvg-name="BALK | VALENTINO MUSIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VALENTINO MUSIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2834889577b4a8fac1b549
+#EXTINF:-1 tvg-id="4042990906" tvg-name="BALK | PINK COMEDY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK COMEDY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4042990906b4a8fac1b549
+#EXTINF:-1 tvg-id="732636404" tvg-name="BALK | NTVIC KAKANJ (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | NTVIC KAKANJ (6)
+http://192.168.1.60:8080/Rokkr.php?ID=732636404b4a8fac1b549
+#EXTINF:-1 tvg-id="1514394123" tvg-name="BALK | E! (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | E! (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1514394123b4a8fac1b549
+#EXTINF:-1 tvg-id="1781921808" tvg-name="BALK | AXN ADRIA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AXN ADRIA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1781921808b4a8fac1b549
+#EXTINF:-1 tvg-id="1099487210" tvg-name="BALK | AXN SPIN (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | AXN SPIN (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1099487210b4a8fac1b549
+#EXTINF:-1 tvg-id="1982606330" tvg-name="BALK | PINK HAHA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK HAHA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1982606330b4a8fac1b549
+#EXTINF:-1 tvg-id="2001231385" tvg-name="BALK | HAYAT MUSIC BOX (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYAT MUSIC BOX (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2001231385b4a8fac1b549
+#EXTINF:-1 tvg-id="297494844" tvg-name="BALK | DA VINCI LEARNING (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DA VINCI LEARNING (7)
+http://192.168.1.60:8080/Rokkr.php?ID=297494844b4a8fac1b549
+#EXTINF:-1 tvg-id="1265586676" tvg-name="BALK | MTV 00S (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | MTV 00S (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1265586676b4a8fac1b549
+#EXTINF:-1 tvg-id="3605622874" tvg-name="BALK | TVSA SARAJEVO (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TVSA SARAJEVO (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3605622874b4a8fac1b549
+#EXTINF:-1 tvg-id="2969315161" tvg-name="BALK | PINK FAMILY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FAMILY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2969315161b4a8fac1b549
+#EXTINF:-1 tvg-id="409979307" tvg-name="BALK | PLANETA TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PLANETA TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=409979307b4a8fac1b549
+#EXTINF:-1 tvg-id="3030196232" tvg-name="BALK | HBO 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HBO 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3030196232b4a8fac1b549
+#EXTINF:-1 tvg-id="2602450476" tvg-name="BALK | ELTA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ELTA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2602450476b4a8fac1b549
+#EXTINF:-1 tvg-id="2237874125" tvg-name="BALK | FIGHTBOX (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FIGHTBOX (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2237874125b4a8fac1b549
+#EXTINF:-1 tvg-id="4122781242" tvg-name="BALK | PINK EXTRA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK EXTRA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4122781242b4a8fac1b549
+#EXTINF:-1 tvg-id="2763008054" tvg-name="BALK | CINEMANIA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CINEMANIA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2763008054b4a8fac1b549
+#EXTINF:-1 tvg-id="1381838146" tvg-name="BALK | TV ISTOK (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV ISTOK (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1381838146b4a8fac1b549
+#EXTINF:-1 tvg-id="4167644502" tvg-name="BALK | PINK REALITY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK REALITY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4167644502b4a8fac1b549
+#EXTINF:-1 tvg-id="4026229012" tvg-name="BALK | SOBRANISKI KANAL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SOBRANISKI KANAL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4026229012b4a8fac1b549
+#EXTINF:-1 tvg-id="3278309033" tvg-name="BALK | PINK N ROLL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK N ROLL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3278309033b4a8fac1b549
+#EXTINF:-1 tvg-id="3668786775" tvg-name="BALK | KCN 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KCN 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3668786775b4a8fac1b549
+#EXTINF:-1 tvg-id="1368386480" tvg-name="BALK | HAYATOVCI (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYATOVCI (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1368386480b4a8fac1b549
+#EXTINF:-1 tvg-id="946661176" tvg-name="BALK | PINK MUSIC 1 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK MUSIC 1 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=946661176b4a8fac1b549
+#EXTINF:-1 tvg-id="3604260757" tvg-name="BALK | SPORT KLUB GOLF (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SPORT KLUB GOLF (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3604260757b4a8fac1b549
+#EXTINF:-1 tvg-id="956406027" tvg-name="BALK | DOBRA ISLAMSKA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOBRA ISLAMSKA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=956406027b4a8fac1b549
+#EXTINF:-1 tvg-id="1973100123" tvg-name="BALK | PINK REALITY (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK REALITY (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1973100123b4a8fac1b549
+#EXTINF:-1 tvg-id="1295762615" tvg-name="BALK | X-TOXIC (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | X-TOXIC (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1295762615b4a8fac1b549
+#EXTINF:-1 tvg-id="2144116200" tvg-name="BALK | PINK MUSIC 2 (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK MUSIC 2 (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2144116200b4a8fac1b549
+#EXTINF:-1 tvg-id="4125351413" tvg-name="BALK | PINK FAMILY (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK FAMILY (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4125351413b4a8fac1b549
+#EXTINF:-1 tvg-id="1794719322" tvg-name="BALK | PINK (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1794719322b4a8fac1b549
+#EXTINF:-1 tvg-id="3171935302" tvg-name="BALK | RTL LIVING (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL LIVING (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3171935302b4a8fac1b549
+#EXTINF:-1 tvg-id="1411303991" tvg-name="BALK | VAVOOM (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | VAVOOM (1)
+http://192.168.1.60:8080/Rokkr.php?ID=1411303991b4a8fac1b549
+#EXTINF:-1 tvg-id="2973008054" tvg-name="BALK | CITY TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CITY TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2973008054b4a8fac1b549
+#EXTINF:-1 tvg-id="173136522" tvg-name="BALK | RTRS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTRS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=173136522b4a8fac1b549
+#EXTINF:-1 tvg-id="459328591" tvg-name="BALK | HAYATOVCI (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYATOVCI (7)
+http://192.168.1.60:8080/Rokkr.php?ID=459328591b4a8fac1b549
+#EXTINF:-1 tvg-id="2640869214" tvg-name="BALK | TV NASHA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV NASHA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2640869214b4a8fac1b549
+#EXTINF:-1 tvg-id="3206634038" tvg-name="BALK | RTV 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTV 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3206634038b4a8fac1b549
+#EXTINF:-1 tvg-id="3463706015" tvg-name="BALK | HISTORY CHANNEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HISTORY CHANNEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3463706015b4a8fac1b549
+#EXTINF:-1 tvg-id="655636936" tvg-name="BALK | HEMA TV (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HEMA TV (6)
+http://192.168.1.60:8080/Rokkr.php?ID=655636936b4a8fac1b549
+#EXTINF:-1 tvg-id="1555492746" tvg-name="BALK | DISCOVERY SCIENCE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY SCIENCE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1555492746b4a8fac1b549
+#EXTINF:-1 tvg-id="4162582937" tvg-name="BALK | PIKABOO (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PIKABOO (1)
+http://192.168.1.60:8080/Rokkr.php?ID=4162582937b4a8fac1b549
+#EXTINF:-1 tvg-id="3060779131" tvg-name="BALK | FOX CRIME (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX CRIME (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3060779131b4a8fac1b549
+#EXTINF:-1 tvg-id="2682748849" tvg-name="BALK | TV NOVI PAZAR (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV NOVI PAZAR (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2682748849b4a8fac1b549
+#EXTINF:-1 tvg-id="1794870373" tvg-name="BALK | CITY TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CITY TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1794870373b4a8fac1b549
+#EXTINF:-1 tvg-id="992994150" tvg-name="BALK | RTL 2 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | RTL 2 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=992994150b4a8fac1b549
+#EXTINF:-1 tvg-id="3888977895" tvg-name="BALK | KCN 3 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | KCN 3 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3888977895b4a8fac1b549
+#EXTINF:-1 tvg-id="3405730466" tvg-name="BALK | SOS KANAL (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | SOS KANAL (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3405730466b4a8fac1b549
+#EXTINF:-1 tvg-id="961900723" tvg-name="BALK | INVESTIGATION DISCOVERY (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | INVESTIGATION DISCOVERY (6)
+http://192.168.1.60:8080/Rokkr.php?ID=961900723b4a8fac1b549
+#EXTINF:-1 tvg-id="933410271" tvg-name="BALK | PINK SOAP (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SOAP (7)
+http://192.168.1.60:8080/Rokkr.php?ID=933410271b4a8fac1b549
+#EXTINF:-1 tvg-id="2102235680" tvg-name="BALK | PINK SOAP (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | PINK SOAP (1)
+http://192.168.1.60:8080/Rokkr.php?ID=2102235680b4a8fac1b549
+#EXTINF:-1 tvg-id="1324249288" tvg-name="BALK | FOX LIFE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FOX LIFE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=1324249288b4a8fac1b549
+#EXTINF:-1 tvg-id="2253936606" tvg-name="BALK | DISCOVERY SCIENCE (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DISCOVERY SCIENCE (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2253936606b4a8fac1b549
+#EXTINF:-1 tvg-id="867765469" tvg-name="BALK | CC EXTRA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | CC EXTRA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=867765469b4a8fac1b549
+#EXTINF:-1 tvg-id="3721590485" tvg-name="BALK | TNT KIDS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TNT KIDS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3721590485b4a8fac1b549
+#EXTINF:-1 tvg-id="3436666239" tvg-name="BALK | FILMBOX PLUS (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | FILMBOX PLUS (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3436666239b4a8fac1b549
+#EXTINF:-1 tvg-id="188345347" tvg-name="BALK | TV 5 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV 5 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=188345347b4a8fac1b549
+#EXTINF:-1 tvg-id="3559293169" tvg-name="BALK | EPIC DRAMA (1)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | EPIC DRAMA (1)
+http://192.168.1.60:8080/Rokkr.php?ID=3559293169b4a8fac1b549
+#EXTINF:-1 tvg-id="3126312793" tvg-name="BALK | DOBRA SVADBA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOBRA SVADBA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=3126312793b4a8fac1b549
+#EXTINF:-1 tvg-id="3830380986" tvg-name="BALK | STUDIO B (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | STUDIO B (7)
+http://192.168.1.60:8080/Rokkr.php?ID=3830380986b4a8fac1b549
+#EXTINF:-1 tvg-id="2641529497" tvg-name="BALK | DOBRA MUZICKA (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOBRA MUZICKA (6)
+http://192.168.1.60:8080/Rokkr.php?ID=2641529497b4a8fac1b549
+#EXTINF:-1 tvg-id="4273556163" tvg-name="BALK | TV 1 (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV 1 (7)
+http://192.168.1.60:8080/Rokkr.php?ID=4273556163b4a8fac1b549
+#EXTINF:-1 tvg-id="9735466" tvg-name="BALK | TV SEHARA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TV SEHARA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=9735466b4a8fac1b549
+#EXTINF:-1 tvg-id="1537564198" tvg-name="BALK | DOBRA EXCLUSIVE (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOBRA EXCLUSIVE (6)
+http://192.168.1.60:8080/Rokkr.php?ID=1537564198b4a8fac1b549
+#EXTINF:-1 tvg-id="426023763" tvg-name="BALK | HAYATOVCI (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | HAYATOVCI (6)
+http://192.168.1.60:8080/Rokkr.php?ID=426023763b4a8fac1b549
+#EXTINF:-1 tvg-id="751246250" tvg-name="BALK | ELTA 2 (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | ELTA 2 (6)
+http://192.168.1.60:8080/Rokkr.php?ID=751246250b4a8fac1b549
+#EXTINF:-1 tvg-id="280202434" tvg-name="BALK | DOBRA TRAVEL (6)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | DOBRA TRAVEL (6)
+http://192.168.1.60:8080/Rokkr.php?ID=280202434b4a8fac1b549
+#EXTINF:-1 tvg-id="139247412" tvg-name="BALK | POSAVINA TV (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | POSAVINA TV (7)
+http://192.168.1.60:8080/Rokkr.php?ID=139247412b4a8fac1b549
+#EXTINF:-1 tvg-id="924585577" tvg-name="BALK | TK TUZLA (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TK TUZLA (7)
+http://192.168.1.60:8080/Rokkr.php?ID=924585577b4a8fac1b549
+#EXTINF:-1 tvg-id="2043372515" tvg-name="BALK | TK TUZLA BH (7)" tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="Balkans",BALK | TK TUZLA BH (7)
+http://192.168.1.60:8080/Rokkr.php?ID=2043372515b4a8fac1b549
