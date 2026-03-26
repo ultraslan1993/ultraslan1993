@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1,Yan Taraf
+rtsp://admin:hbbtlg1905@192.168.1.101:554/Streaming/Channels/101
+
+#EXTINF:-1,Giris
+rtsp://admin:hbbtlg1905@192.168.1.102:554/Streaming/Channels/101
+
+#EXTINF:-1,Yol
+rtsp://admin:hbbtlg1905@192.168.1.103:554/Streaming/Channels/101
+
+#EXTINF:-1,Arka Taraf
+rtsp://admin:hbbtlg1905@192.168.1.104:554/Streaming/Channels/101
+
+#EXTINF:-1,Alt Kat
+rtsp://admin:hbbtlg1905@192.168.1.105:554/Streaming/Channels/101
+
+#EXTINF:-1,Atolye
+rtsp://admin:hbbtlg1905@192.168.1.106:554/Streaming/Channels/101
